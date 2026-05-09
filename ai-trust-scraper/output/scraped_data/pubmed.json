@@ -1,0 +1,426 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42084745/",
+    "source_type": "pubmed",
+    "title": "Estimating soil organic carbon content in reclaimed mining areas using unmanned aerial vehicle multispectral remote sensing and deep learning algorithms.",
+    "author": "Li Qiuyue, Liu Qinyi, Li Zesheng, Li Xinju, Hu Xiao",
+    "published_date": "2026-May-05",
+    "language": "en",
+    "region": "Netherlands",
+    "journal": "Environmental monitoring and assessment",
+    "topic_tags": [
+      "LLM"
+    ],
+    "trust_score": 0.79,
+    "content_chunks": [
+      "Soil organic carbon (SOC) is a key indicator for assessing soil quality. Rapid and accurate acquisition of the spatial distribution of SOC content can guide production management in reclaimed farmland in mining areas. This study takes the Xinglongzhuang Coal Mine in Yanzhou District, Jining City, as the study area, with reclaimed farmland SOC as the research subject. Based on unmanned aerial vehicle (UAV) multispectral remote sensing images and ground sampling point data, three sets of feature variables were constructed: a full variable set, a variance inflation factor (VIF) screened variable set, and a genetic algorithm (GA) screened variable set. Four deep learning algorithms, namely convolutional neural network (CNN), graph neural network (GNN), recurrent neural network (RNN), and transformer, are employed to construct a total of 12 SOC content estimation models. Based on the optimal estimation model CNN-GA, the model was optimized and improved by generating pseudo-reflectance samples through Kernel-SMOTE algorithm oversampling. The results indicate that (1) following variable selection through the use of GA, the accuracy of the majority of estimation models saw a significant improvement. (2) Among the four deep learning algorithms, the model constructed using the CNN algorithm achieved the highest accuracy. (3) CNN-GA-SMOTE was identified as the optimal estimation model, achieving an R"
+    ],
+    "_raw_text": "Soil organic carbon (SOC) is a key indicator for assessing soil quality. Rapid and accurate acquisition of the spatial distribution of SOC content can guide production management in reclaimed farmland in mining areas. This study takes the Xinglongzhuang Coal Mine in Yanzhou District, Jining City, as the study area, with reclaimed farmland SOC as the research subject. Based on unmanned aerial vehicle (UAV) multispectral remote sensing images and ground sampling point data, three sets of feature variables were constructed: a full variable set, a variance inflation factor (VIF) screened variable set, and a genetic algorithm (GA) screened variable set. Four deep learning algorithms, namely convolutional neural network (CNN), graph neural network (GNN), recurrent neural network (RNN), and transformer, are employed to construct a total of 12 SOC content estimation models. Based on the optimal estimation model CNN-GA, the model was optimized and improved by generating pseudo-reflectance samples through Kernel-SMOTE algorithm oversampling. The results indicate that (1) following variable selection through the use of GA, the accuracy of the majority of estimation models saw a significant improvement. (2) Among the four deep learning algorithms, the model constructed using the CNN algorithm achieved the highest accuracy. (3) CNN-GA-SMOTE was identified as the optimal estimation model, achieving an R",
+    "_citation_count": 68,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 1.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.7875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42080056/",
+    "source_type": "pubmed",
+    "title": "Automatic recognition of dynamic signs of Mexican sign language using deep learning.",
+    "author": "Navarrete-López Jesús Antonio, Sainos-Vizuett Michelle, Lopez-Nava Irvin Hussein",
+    "published_date": "2026-01-01",
+    "language": "en",
+    "region": "Switzerland",
+    "journal": "Frontiers in artificial intelligence",
+    "topic_tags": [
+      "LLM",
+      "benchmark",
+      "healthcare"
+    ],
+    "trust_score": 0.76,
+    "content_chunks": [
+      "Over four million individuals in Mexico face communication barriers due to hearing impairments. Sign language serves as an essential communication tool within the deaf community; however, automatic translation between sign and oral languages remains a significant challenge. This study proposes an approach for recognizing dynamic gestures from Mexican Sign Language (LSM) to support the development of assistive communication technologies. In collaboration with expert interpreters, an LSM corpus comprising 121 signs was developed, including a specialized lexicon focused on medical emergencies and accident scenarios. A standardized video acquisition protocol was implemented with both expert and non-expert participants. The proposed methodology consists of skeletal keypoint extraction using MediaPipe, data augmentation through frame sampling, and dataset normalization. Multiple deep learning architectures were evaluated, including ResNet, Simple RNN, LSTM, Bidirectional LSTM (BiLSTM), Gated Recurrent Units (GRU), a Transformer encoder, and a hybrid ResNet-Transformer model. Among the evaluated models, the ResNet architecture achieved the best performance, obtaining an F1-score of 0.948 under subject-independent evaluation, with an average inference time of 0.468 seconds. Hyperparameter optimization analysis indicated that performance improvements were primarily driven by training dynamics and regularization strategies rather than increases in architectural depth. The results demonstrate the effectiveness of deep learning-based approaches for dynamic LSM gesture recognition and highlight the importance of optimization strategies for robust generalization. This work contributes toward LSM-to-Spanish translation systems and provides a foundation for advancing data-driven sign language recognition technologies."
+    ],
+    "_raw_text": "Over four million individuals in Mexico face communication barriers due to hearing impairments. Sign language serves as an essential communication tool within the deaf community; however, automatic translation between sign and oral languages remains a significant challenge. This study proposes an approach for recognizing dynamic gestures from Mexican Sign Language (LSM) to support the development of assistive communication technologies. In collaboration with expert interpreters, an LSM corpus comprising 121 signs was developed, including a specialized lexicon focused on medical emergencies and accident scenarios. A standardized video acquisition protocol was implemented with both expert and non-expert participants. The proposed methodology consists of skeletal keypoint extraction using MediaPipe, data augmentation through frame sampling, and dataset normalization. Multiple deep learning architectures were evaluated, including ResNet, Simple RNN, LSTM, Bidirectional LSTM (BiLSTM), Gated Recurrent Units (GRU), a Transformer encoder, and a hybrid ResNet-Transformer model. Among the evaluated models, the ResNet architecture achieved the best performance, obtaining an F1-score of 0.948 under subject-independent evaluation, with an average inference time of 0.468 seconds. Hyperparameter optimization analysis indicated that performance improvements were primarily driven by training dynamics and regularization strategies rather than increases in architectural depth. The results demonstrate the effectiveness of deep learning-based approaches for dynamic LSM gesture recognition and highlight the importance of optimization strategies for robust generalization. This work contributes toward LSM-to-Spanish translation systems and provides a foundation for advancing data-driven sign language recognition technologies.",
+    "_citation_count": 22,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.3667,
+      "domain_authority": 1.0,
+      "recency_score": 1.0,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.7608
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42042250/",
+    "source_type": "pubmed",
+    "title": "Evaluating Neural Networks Architectures for Competency Prediction from Process Data Using PISA Computer-Based Mathematics Assessment.",
+    "author": "Kuang Huan",
+    "published_date": "2026-Apr-20",
+    "language": "en",
+    "region": "Switzerland",
+    "journal": "Journal of Intelligence",
+    "topic_tags": [],
+    "trust_score": 0.74,
+    "content_chunks": [
+      "Computer-based assessments generate rich process data that captures examinees' interactions with test items. Using process data from the U.S. PISA 2012 computer-based mathematics assessment sample, this study applied recurrent neural networks to predict item-level correctness and assessment-level latent proficiency. The analysis also examines the impact of expert-engineered features, levels of architectural complexity, action variability, and score variability on model performance. At the item level, most models achieved AUC values around 0.80, indicating good predictive performance. Moderate correlations were observed between latent proficiency from 30 items and predictions based on process data from a subset of items ("
+    ],
+    "_raw_text": "Computer-based assessments generate rich process data that captures examinees' interactions with test items. Using process data from the U.S. PISA 2012 computer-based mathematics assessment sample, this study applied recurrent neural networks to predict item-level correctness and assessment-level latent proficiency. The analysis also examines the impact of expert-engineered features, levels of architectural complexity, action variability, and score variability on model performance. At the item level, most models achieved AUC values around 0.80, indicating good predictive performance. Moderate correlations were observed between latent proficiency from 30 items and predictions based on process data from a subset of items (",
+    "_citation_count": 64,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 1.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.7375
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42050861/",
+    "source_type": "pubmed",
+    "title": "Clinically Deployable Handwriting Biomarkers of Parkinson's Disease via Multiscale Attention and Bayesian-Genetic Optimization.",
+    "author": "Rezaee Khosro, Fakhrabadi Ali Khalili",
+    "published_date": "2026-May-01",
+    "language": "en",
+    "region": "United States",
+    "journal": "Brain and behavior",
+    "topic_tags": [
+      "healthcare",
+      "benchmark",
+      "interpretability"
+    ],
+    "trust_score": 0.71,
+    "content_chunks": [
+      "Subtle PD motor abnormalities can be underappreciated in examination but are overtly present in handwriting. Spiral, meander, and wave drawings are noninvasive, low-cost methods for capturing PD motor signatures and are easily collected on a tablet. Deep learning is a natural framework to decode such features, but most handwriting-based PD classifiers have not been thoroughly optimized or tested for generalization, leaving their clinical utility unverified. PD-MGMA-DSCNN is a multiscale gated multi-head attention depthwise separable convolutional network operating on a unified RGB image of spiral, meander, and wave tasks. A PD-specific Bayesian-genetic optimization scheme (PD-BayGA) was used to tune a suite of key architectural and training hyperparameters. Model decisions were interpreted using SHAP-based superpixel attribution maps to link discriminative regions to previously described Parkinsonian handwriting abnormalities. On the PaHaW dataset, PD-MGMA-DSCNN achieved 98.23% accuracy on the held-out internal test set, outperforming CNN, RNN, 3D CNN, and ensemble baselines reported in the literature. Using the finalized configuration developed on PaHaW, external evaluation on the independent HandPD dataset yielded 99.42% accuracy, together with high ROC-AUC and precision-recall performance under clinically motivated rule-out and rule-in thresholds. These findings support the potential use of a three-zone risk stratification scheme within a standardized image-based drawing framework. PD-MGMA-DSCNN provides state-of-the-art performance in handwriting-based PD detection while remaining a compact, systematically optimized model with clinically interpretable explanations. The framework may support tablet-based PD screening or triage in movement-disorder clinics and longitudinal monitoring, and serves as a practical starting point for incorporating digital handwriting biomarkers into clinical PD care."
+    ],
+    "_raw_text": "Subtle PD motor abnormalities can be underappreciated in examination but are overtly present in handwriting. Spiral, meander, and wave drawings are noninvasive, low-cost methods for capturing PD motor signatures and are easily collected on a tablet. Deep learning is a natural framework to decode such features, but most handwriting-based PD classifiers have not been thoroughly optimized or tested for generalization, leaving their clinical utility unverified. PD-MGMA-DSCNN is a multiscale gated multi-head attention depthwise separable convolutional network operating on a unified RGB image of spiral, meander, and wave tasks. A PD-specific Bayesian-genetic optimization scheme (PD-BayGA) was used to tune a suite of key architectural and training hyperparameters. Model decisions were interpreted using SHAP-based superpixel attribution maps to link discriminative regions to previously described Parkinsonian handwriting abnormalities. On the PaHaW dataset, PD-MGMA-DSCNN achieved 98.23% accuracy on the held-out internal test set, outperforming CNN, RNN, 3D CNN, and ensemble baselines reported in the literature. Using the finalized configuration developed on PaHaW, external evaluation on the independent HandPD dataset yielded 99.42% accuracy, together with high ROC-AUC and precision-recall performance under clinically motivated rule-out and rule-in thresholds. These findings support the potential use of a three-zone risk stratification scheme within a standardized image-based drawing framework. PD-MGMA-DSCNN provides state-of-the-art performance in handwriting-based PD detection while remaining a compact, systematically optimized model with clinically interpretable explanations. The framework may support tablet-based PD screening or triage in movement-disorder clinics and longitudinal monitoring, and serves as a practical starting point for incorporating digital handwriting biomarkers into clinical PD care.",
+    "_citation_count": 52,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.8667,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.0,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.7108
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42060016/",
+    "source_type": "pubmed",
+    "title": "Use and Performance of Language-based Artificial Intelligence (AI) Models to Screen for Depressive Disorders.",
+    "author": "Arias de la Torre Jorge, Dahl Roman, Alonso Jordi, Bakolis Ioannis, Botella-Juan Lorena, Gonzalez-Diez Alejandro, Juruena Mario F, Martín Vicente, Martinez-Alés Gonzalo, Munblit Daniel, Vilagut Gemma, Dregan Alex, Valderas Jose M",
+    "published_date": "2026-Apr-30",
+    "language": "en",
+    "region": "United States",
+    "journal": "Current psychiatry reports",
+    "topic_tags": [
+      "LLM",
+      "healthcare"
+    ],
+    "trust_score": 0.7,
+    "content_chunks": [
+      "This review summarised and assessed the current evidence on the use of language-based Artificial Intelligence (AI) models for the screening of depressive disorders in adults. Most of the studies assessing the use of language-based AI models for the screening of depression were conducted in high-income countries, primarily in the US, and used heterogeneous datasets and populations, limiting generalizability. Most of the evidence was based on text data analysed using transformer models, followed by speech data through convolutional or recurrent neural networks (CNN and RNN models respectively). The evidence combining both modalities (text and speech) and models is limited. Considering the performance for the screening of depressive. disorders, the models tested achieved a performance comparable to standard instruments and cut-off scores, such as the 9-item version of the Patient Health Questionnaire (PHQ-9) with a cut-off of 10 or higher. A better understanding of the performance of language-based AI models in real-world settings is required. However, the evidence identified shows that they can be a relevant resource for this screening of depressive disorders and, consequently, for preventing them and reduce their prevalence, burden, and impact at all levels."
+    ],
+    "_raw_text": "This review summarised and assessed the current evidence on the use of language-based Artificial Intelligence (AI) models for the screening of depressive disorders in adults. Most of the studies assessing the use of language-based AI models for the screening of depression were conducted in high-income countries, primarily in the US, and used heterogeneous datasets and populations, limiting generalizability. Most of the evidence was based on text data analysed using transformer models, followed by speech data through convolutional or recurrent neural networks (CNN and RNN models respectively). The evidence combining both modalities (text and speech) and models is limited. Considering the performance for the screening of depressive. disorders, the models tested achieved a performance comparable to standard instruments and cut-off scores, such as the 9-item version of the Patient Health Questionnaire (PHQ-9) with a cut-off of 10 or higher. A better understanding of the performance of language-based AI models in real-world settings is required. However, the evidence identified shows that they can be a relevant resource for this screening of depressive disorders and, consequently, for preventing them and reduce their prevalence, burden, and impact at all levels.",
+    "_citation_count": 50,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.8333,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.0,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.7042
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42084623/",
+    "source_type": "pubmed",
+    "title": "Short-horizon PM2.5 forecasting from multi-station networks: a mask-aware, leakage-safe framework.",
+    "author": "Yagnik Hiteshri, Gupta Rajeev, Shah Kanish",
+    "published_date": "2026-May-05",
+    "language": "en",
+    "region": "Netherlands",
+    "journal": "Environmental monitoring and assessment",
+    "topic_tags": [
+      "healthcare"
+    ],
+    "trust_score": 0.68,
+    "content_chunks": [
+      "Accurate short-horizon forecasts of fine particulate matter (PM₂.₅) at station resolution are critical for advisories, clinical preparedness, and episodic controls. We offer a framework for multi-station PM₂.₅ forecasting over operational hourly networks that is safe against leaks and cognizant of masks. The pipeline puts stations on the same time axis, fills in only small gaps with linear interpolation, records a label mask where PM₂.₅ is actually seen, and limits outlier capping and normalization to the training split with per-station scalers. We make 12-h input windows from the cleaned tensors and estimate targets for all stations at the same time, one hour in the future. We compare a persistence baseline, per-station Random Forest and XGBoost, per-station LSTM/GRU, a multi-station RNN that shares information across sites, and spatio-temporal graph models (ST-GCN and a Chebyshev-GCN followed by LSTM) using a distance-informed station adjacency. Neural models are trained using masked MSE, and predictions are scaled back to their original values for each station before being tested. The GCN-LSTM model gets RMSE 22.90 μg/m"
+    ],
+    "_raw_text": "Accurate short-horizon forecasts of fine particulate matter (PM₂.₅) at station resolution are critical for advisories, clinical preparedness, and episodic controls. We offer a framework for multi-station PM₂.₅ forecasting over operational hourly networks that is safe against leaks and cognizant of masks. The pipeline puts stations on the same time axis, fills in only small gaps with linear interpolation, records a label mask where PM₂.₅ is actually seen, and limits outlier capping and normalization to the training split with per-station scalers. We make 12-h input windows from the cleaned tensors and estimate targets for all stations at the same time, one hour in the future. We compare a persistence baseline, per-station Random Forest and XGBoost, per-station LSTM/GRU, a multi-station RNN that shares information across sites, and spatio-temporal graph models (ST-GCN and a Chebyshev-GCN followed by LSTM) using a distance-informed station adjacency. Neural models are trained using masked MSE, and predictions are scaled back to their original values for each station before being tested. The GCN-LSTM model gets RMSE 22.90 μg/m",
+    "_citation_count": 42,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.7,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.0,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.6775
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42042520/",
+    "source_type": "pubmed",
+    "title": "Video-Based Arabic Sign Language Recognition with Mediapipe and Deep Learning Techniques.",
+    "author": "El-Rushaidat Dana, Almohammad Nour, Yeh Raine, Fayyad Kinda",
+    "published_date": "2026-Apr-20",
+    "language": "en",
+    "region": "Switzerland",
+    "journal": "Journal of imaging",
+    "topic_tags": [
+      "bias",
+      "interpretability",
+      "research"
+    ],
+    "trust_score": 0.67,
+    "content_chunks": [
+      "This paper addresses the critical communication barrier experienced by deaf and hearing-impaired individuals in the Arab world through the development of an affordable, video-based Arabic Sign Language (ArSL) recognition system. Designed for broad accessibility, the system eliminates specialized hardware by leveraging standard mobile or laptop cameras. Our methodology employs Mediapipe for real-time extraction of hand, face, and pose landmarks from video streams. These anatomical features are then processed by a hybrid deep learning model integrating Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), specifically Bidirectional Long Short-Term Memory (BiLSTM) layers. The CNN component captures spatial features, such as intricate hand shapes and body movements, within individual frames. Concurrently, BiLSTMs model long-term temporal dependencies and motion trajectories across consecutive frames. This integrated CNN-BiLSTM architecture is critical for generating a comprehensive spatiotemporal representation, enabling accurate differentiation of complex signs where meaning relies on both static gestures and dynamic transitions, thus preventing misclassification that CNN-only or RNN-only models would incur. Rigorously evaluated on the author-created JUST-SL dataset and the publicly available KArSL dataset, the system achieved 96% overall accuracy for JUST-SL and an impressive 99% for KArSL. These results demonstrate the system's superior accuracy compared to previous research, particularly for recognizing full Arabic words, thereby significantly enhancing communication accessibility for the deaf and hearing-impaired community."
+    ],
+    "_raw_text": "This paper addresses the critical communication barrier experienced by deaf and hearing-impaired individuals in the Arab world through the development of an affordable, video-based Arabic Sign Language (ArSL) recognition system. Designed for broad accessibility, the system eliminates specialized hardware by leveraging standard mobile or laptop cameras. Our methodology employs Mediapipe for real-time extraction of hand, face, and pose landmarks from video streams. These anatomical features are then processed by a hybrid deep learning model integrating Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), specifically Bidirectional Long Short-Term Memory (BiLSTM) layers. The CNN component captures spatial features, such as intricate hand shapes and body movements, within individual frames. Concurrently, BiLSTMs model long-term temporal dependencies and motion trajectories across consecutive frames. This integrated CNN-BiLSTM architecture is critical for generating a comprehensive spatiotemporal representation, enabling accurate differentiation of complex signs where meaning relies on both static gestures and dynamic transitions, thus preventing misclassification that CNN-only or RNN-only models would incur. Rigorously evaluated on the author-created JUST-SL dataset and the publicly available KArSL dataset, the system achieved 96% overall accuracy for JUST-SL and an impressive 99% for KArSL. These results demonstrate the system's superior accuracy compared to previous research, particularly for recognizing full Arabic words, thereby significantly enhancing communication accessibility for the deaf and hearing-impaired community.",
+    "_citation_count": 26,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.4333,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.6742
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42069712/",
+    "source_type": "pubmed",
+    "title": "Self-consistent recurrent neural network for path dependent deformation.",
+    "author": "Yatkin Muhammed Adil, Kõrgesaar Mihkel, Asan Vedat Mert, Romanoff Jani, Stuckner Joshua, Kurban Hasan",
+    "published_date": "2026-May-02",
+    "language": "en",
+    "region": "England",
+    "journal": "Scientific reports",
+    "topic_tags": [],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "Using data-driven machine learning (ML) models as surrogates in classical engineering is an emerging trend in the literature. However, effective surrogate modeling in path-dependent problems requires a deep understanding of the fundamental physical properties that naturally arise in data obtained from simulations or experiments. While generic ML architectures can capture nonlinear behavior, they may not inherently satisfy the specific temporal constraints dictated by physical processes. This study examines the characteristics of deformation paths generated through finite element simulations and identifies key modeling requirements for achieving physically meaningful predictions. One important requirement is that future inputs do not influence past outputs, a property typically satisfied by most surrogate ML models, yet rarely acknowledged or formalized. This requirement, often called the truncation condition, is essential for achieving physically meaningful predictions. Another closely related requirement is consistency across different time discretizations, which remains an active and important topic in deformation history modelling. To address these requirements, we propose a customized and adaptable Recurrent Neural Network (RNN) transition function that takes absolute strain inputs and is designed to enforce both truncation and consistency, ensuring robust predictions across varying temporal resolutions. This study contributes toward improving physically consistent damage initiation estimation and supports the development of more reliable surrogate models in computational mechanics."
+    ],
+    "_raw_text": "Using data-driven machine learning (ML) models as surrogates in classical engineering is an emerging trend in the literature. However, effective surrogate modeling in path-dependent problems requires a deep understanding of the fundamental physical properties that naturally arise in data obtained from simulations or experiments. While generic ML architectures can capture nonlinear behavior, they may not inherently satisfy the specific temporal constraints dictated by physical processes. This study examines the characteristics of deformation paths generated through finite element simulations and identifies key modeling requirements for achieving physically meaningful predictions. One important requirement is that future inputs do not influence past outputs, a property typically satisfied by most surrogate ML models, yet rarely acknowledged or formalized. This requirement, often called the truncation condition, is essential for achieving physically meaningful predictions. Another closely related requirement is consistency across different time discretizations, which remains an active and important topic in deformation history modelling. To address these requirements, we propose a customized and adaptable Recurrent Neural Network (RNN) transition function that takes absolute strain inputs and is designed to enforce both truncation and consistency, ensuring robust predictions across varying temporal resolutions. This study contributes toward improving physically consistent damage initiation estimation and supports the development of more reliable surrogate models in computational mechanics.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42062418/",
+    "source_type": "pubmed",
+    "title": "Predicting worsening visual field via masked dual stage attention recurrent neural network.",
+    "author": "Park Keunheung, Kim Hwayeong, Moon Sangwoo, Kim Junglim, Jin Sangwook, Lee Seunguk, Kim EunAh, Lee Jiwoong",
+    "published_date": "2026-Apr-30",
+    "language": "en",
+    "region": "England",
+    "journal": "Scientific reports",
+    "topic_tags": [],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "Based on dual-stage attention recurrent neural network (DA-RNN), a masked DA-RNN (MDA-RNN) model was developed to predict future visual fields (VF). The training dataset comprised 154,105 VF examinations of 22,404 eyes. Performance was measured as the mean absolute error (MAE) between the predicted and actual values of mean deviation (MD), pattern standard deviation (PSD), Visual Field Index (VFI), 54 values of total deviation values (TDV) according to glaucoma severity and the prediction interval. Attention weights were analyzed to determine the characteristics of the MDA-RNN. Prediction errors of MDA-RNN for MD, PSD, VFI, TDV were 1.44 ± 2.05 dB, 1.03 ± 1.09 dB, 4.19 ± 7.07%, and 2.45 ± 1.97 dB respectively. Except for the VFI error, MDA-RNN exhibited a significantly lower prediction error than the masked bidirectional gated recurrent unit (BiGRU) model. The MDA-RNN assigned large weights to the TDV, PDV, MD, and false negative ratio (FN) in the encoder attention. In decoder attention, high scores were assigned to VF with lower FN and higher MD. MDA-RNN focused more on important features and could select more reliable VFs over all time steps, reducing noise in the VF input. The MDA-RNN was robust in predicting severe glaucoma, largely worsening glaucoma, and offered long-term prediction intervals."
+    ],
+    "_raw_text": "Based on dual-stage attention recurrent neural network (DA-RNN), a masked DA-RNN (MDA-RNN) model was developed to predict future visual fields (VF). The training dataset comprised 154,105 VF examinations of 22,404 eyes. Performance was measured as the mean absolute error (MAE) between the predicted and actual values of mean deviation (MD), pattern standard deviation (PSD), Visual Field Index (VFI), 54 values of total deviation values (TDV) according to glaucoma severity and the prediction interval. Attention weights were analyzed to determine the characteristics of the MDA-RNN. Prediction errors of MDA-RNN for MD, PSD, VFI, TDV were 1.44 ± 2.05 dB, 1.03 ± 1.09 dB, 4.19 ± 7.07%, and 2.45 ± 1.97 dB respectively. Except for the VFI error, MDA-RNN exhibited a significantly lower prediction error than the masked bidirectional gated recurrent unit (BiGRU) model. The MDA-RNN assigned large weights to the TDV, PDV, MD, and false negative ratio (FN) in the encoder attention. In decoder attention, high scores were assigned to VF with lower FN and higher MD. MDA-RNN focused more on important features and could select more reliable VFs over all time steps, reducing noise in the VF input. The MDA-RNN was robust in predicting severe glaucoma, largely worsening glaucoma, and offered long-term prediction intervals.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42060420/",
+    "source_type": "pubmed",
+    "title": "XAI-Exit: Interpretability-Driven Dynamic Early Exits for Efficient and Transparent DNN Inference.",
+    "author": "Rahmath P Haseena, Abraham Ajith, Chaurasia Kuldeep",
+    "published_date": "2026-Apr-30",
+    "language": "en",
+    "region": "United States",
+    "journal": "IEEE transactions on neural networks and learning systems",
+    "topic_tags": [
+      "interpretability",
+      "benchmark"
+    ],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "Deep neural networks (DNNs) excel across domains but face challenges in resource-constrained and critical settings due to high computational cost and limited transparency. Early exit DNNs reduce overhead via intermediate predictions; yet, most approaches neglect interpretability, vital for trust in AI systems. This article presents XAI-Exit, an early exit framework that jointly optimizes efficiency and transparency. At its core, ExitDecisionNet (EDN)-a lightweight RNN trained with a curriculum strategy on confidence, interpretability, and stability metrics-dynamically predicts the optimal exit, while a skip mechanism minimizes redundant computation. To ensure transparency, exit attribution maps (EAMs) aggregate feature attributions across exits, revealing the decision trajectory and are complemented by standard XAI methods (integrated gradients (IGs), SmoothGrad, Grad-CAM++, and LRP). Experiments on MobileNetV3, ResNet18, and MSDNet with CIFAR-10, CIFAR-100, and ImageNet show that XAI-Exit improves efficiency without sacrificing accuracy, while uniquely ensuring interpretable exit decisions suitable for real-world deployment."
+    ],
+    "_raw_text": "Deep neural networks (DNNs) excel across domains but face challenges in resource-constrained and critical settings due to high computational cost and limited transparency. Early exit DNNs reduce overhead via intermediate predictions; yet, most approaches neglect interpretability, vital for trust in AI systems. This article presents XAI-Exit, an early exit framework that jointly optimizes efficiency and transparency. At its core, ExitDecisionNet (EDN)-a lightweight RNN trained with a curriculum strategy on confidence, interpretability, and stability metrics-dynamically predicts the optimal exit, while a skip mechanism minimizes redundant computation. To ensure transparency, exit attribution maps (EAMs) aggregate feature attributions across exits, revealing the decision trajectory and are complemented by standard XAI methods (integrated gradients (IGs), SmoothGrad, Grad-CAM++, and LRP). Experiments on MobileNetV3, ResNet18, and MSDNet with CIFAR-10, CIFAR-100, and ImageNet show that XAI-Exit improves efficiency without sacrificing accuracy, while uniquely ensuring interpretable exit decisions suitable for real-world deployment.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42056136/",
+    "source_type": "pubmed",
+    "title": "Association-sensory spatiotemporal hierarchy and functional gradient-regularised recurrent neural network with implications for schizophrenia.",
+    "author": "Abulikemu Subati, Radmard Puria, Mamalakis Michail, Suckling John",
+    "published_date": "2026-Apr-30",
+    "language": "en",
+    "region": "England",
+    "journal": "NPJ systems biology and applications",
+    "topic_tags": [
+      "safety"
+    ],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "The human neocortex is functionally organised at its highest level along a continuous sensory-to-association (AS) hierarchy. This study investigates two questions-how this hierarchy is structurally altered in schizophrenia, and what these alterations imply for neural dynamics and cognitive computation. Using a large fMRI dataset (N = 355), we extracted individual AS gradients via spectral analysis of brain connectivity and quantified hierarchical organisation by the gradient range. Schizophrenia showed a compressed AS hierarchy, indicating reduced functional differentiation. Estimating neural timescale (autocorrelation decay constant) with the Ornstein-Uhlenbeck process, we observed that the most specialised, locally cohesive regions at the gradient extremes exhibit longer timescales, an empirical spatiotemporal mapping that is attenuated in schizophrenia. To probe the computational consequences of this compression, we used the gradients to regularise subject-specific recurrent neural networks (RNNs) trained on working memory tasks. Networks endowed with greater gradient range learned more efficiently, plateaued at lower task loss, and maintained stronger alignment to the prescribed AS hierarchical geometry. Fixed-point linearisation showed that high-range networks settled into more stable neural states during memory delay, evidenced by lower energy and smaller maximal Jacobian eigenvalues. This gradient-regularised RNN framework thereby links large-scale cortical architecture with fixed point stability, providing a computational hypothesis that AS gradient de-differentiation can destabilise neural computations in schizophrenia, convergently supported by empirical timescale flattening along AS gradient and model-based evidence of less stable fixed points."
+    ],
+    "_raw_text": "The human neocortex is functionally organised at its highest level along a continuous sensory-to-association (AS) hierarchy. This study investigates two questions-how this hierarchy is structurally altered in schizophrenia, and what these alterations imply for neural dynamics and cognitive computation. Using a large fMRI dataset (N = 355), we extracted individual AS gradients via spectral analysis of brain connectivity and quantified hierarchical organisation by the gradient range. Schizophrenia showed a compressed AS hierarchy, indicating reduced functional differentiation. Estimating neural timescale (autocorrelation decay constant) with the Ornstein-Uhlenbeck process, we observed that the most specialised, locally cohesive regions at the gradient extremes exhibit longer timescales, an empirical spatiotemporal mapping that is attenuated in schizophrenia. To probe the computational consequences of this compression, we used the gradients to regularise subject-specific recurrent neural networks (RNNs) trained on working memory tasks. Networks endowed with greater gradient range learned more efficiently, plateaued at lower task loss, and maintained stronger alignment to the prescribed AS hierarchical geometry. Fixed-point linearisation showed that high-range networks settled into more stable neural states during memory delay, evidenced by lower energy and smaller maximal Jacobian eigenvalues. This gradient-regularised RNN framework thereby links large-scale cortical architecture with fixed point stability, providing a computational hypothesis that AS gradient de-differentiation can destabilise neural computations in schizophrenia, convergently supported by empirical timescale flattening along AS gradient and model-based evidence of less stable fixed points.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42050040/",
+    "source_type": "pubmed",
+    "title": "A unified privacy-preserving data mining framework with multi-noise injection and hybrid deep learning for robust privacy-utility trade-offs.",
+    "author": "Arun R, Premalatha K, Kannimuthu S",
+    "published_date": "2026-Apr-28",
+    "language": "en",
+    "region": "England",
+    "journal": "Scientific reports",
+    "topic_tags": [
+      "research"
+    ],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "This paper introduces a single Privacy-Preserving Data Mining (PPDM) framework that attempts to balance the privacy-utility dilemma between privacy and utility of the data. This methodology will combine a stringent preprocessing pipeline, which uses k-NN imputation and Tomek Link SMOTE to balance the classes and a multi-regularized approach to feature selection (L1, L2, and Elastic Net) to boost the significance of the attributes. As an extensive multi-noise injection layer is required to offer strong privacy assurances, Laplace, Cauchy, t-distribution, intuitionistic fuzzy, exponential, speckle, and Gaussian perturbations are adopted. Studying is carried out through a hybrid 1D CNN-LSTM system, which was designed to identify patterns in perturbed high-dimensional data. Comparison between the Breast Cancer, Adult, and Customer Churn datasets demonstrate that the framework has high predictive accuracy and Kappa scores with a minimum variance in the data utility. Experimental findings show that such multi-layered construction has a better defence-in-depth mechanism than traditional PPDM pipelines, which are capable of ensuring strong performance in sensitive analytical conditions."
+    ],
+    "_raw_text": "This paper introduces a single Privacy-Preserving Data Mining (PPDM) framework that attempts to balance the privacy-utility dilemma between privacy and utility of the data. This methodology will combine a stringent preprocessing pipeline, which uses k-NN imputation and Tomek Link SMOTE to balance the classes and a multi-regularized approach to feature selection (L1, L2, and Elastic Net) to boost the significance of the attributes. As an extensive multi-noise injection layer is required to offer strong privacy assurances, Laplace, Cauchy, t-distribution, intuitionistic fuzzy, exponential, speckle, and Gaussian perturbations are adopted. Studying is carried out through a hybrid 1D CNN-LSTM system, which was designed to identify patterns in perturbed high-dimensional data. Comparison between the Breast Cancer, Adult, and Customer Churn datasets demonstrate that the framework has high predictive accuracy and Kappa scores with a minimum variance in the data utility. Experimental findings show that such multi-layered construction has a better defence-in-depth mechanism than traditional PPDM pipelines, which are capable of ensuring strong performance in sensitive analytical conditions.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42048432/",
+    "source_type": "pubmed",
+    "title": "Comparing Dynamical Models Through Diffeomorphic Vector Field Alignment.",
+    "author": "Chen Ruiqi, Vedovati Giacomo, Braver Todd, Ching ShiNung",
+    "published_date": "2026-Apr-23",
+    "language": "en",
+    "region": "United States",
+    "journal": "Neural computation",
+    "topic_tags": [
+      "benchmark",
+      "safety"
+    ],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "Dynamical systems models such as recurrent neural networks (RNNs) are increasingly popular in theoretical neuroscience as a vehicle for hypothesis generation and data analysis. Evaluating the dynamics in such models is key to understanding their learned generative mechanisms. However, such evaluation is impeded by two major challenges: (1) comparison of learned dynamics across models is difficult because a priori there is no enforced equivalence of their coordinate systems, and (2) identification of mechanistically important low-dimensional motifs (e.g., limit sets) is analytically intractable in high-dimensional nonlinear models such as RNNs. Here, we propose a comprehensive framework to address these two issues, termed diffeomorphic vector field alignment for learned models (DFORM). DFORM learns a nonlinear coordinate transformation between the state spaces of two dynamical systems, which aligns their trajectories in a maximally one-to-one manner. In so doing, DFORM enables an assessment of whether a set of models exhibits topological equivalence, that is, their dynamics are mechanistically similar despite differences in their coordinate systems. A by-product of this methodology is a means to locate dynamical motifs on low-dimensional manifolds embedded within higher-dimensional systems. We verified DFORM's ability to identify linear and nonlinear coordinate transformations using canonical topologically equivalent systems, RNNs, and systems related by nonlinear flows. DFORM was also shown to provide a quantification of similarity between topologically distinct systems. We then demonstrated that DFORM can locate important dynamical motifs including invariant manifolds and saddle limit sets within high-dimensional models. Finally, using a set of RNN models trained on human functional magnetic resonance imaging recordings, we illustrated that DFORM can identify limit cycles from high-dimensional data-driven models, which agreed well with prior numerical analysis."
+    ],
+    "_raw_text": "Dynamical systems models such as recurrent neural networks (RNNs) are increasingly popular in theoretical neuroscience as a vehicle for hypothesis generation and data analysis. Evaluating the dynamics in such models is key to understanding their learned generative mechanisms. However, such evaluation is impeded by two major challenges: (1) comparison of learned dynamics across models is difficult because a priori there is no enforced equivalence of their coordinate systems, and (2) identification of mechanistically important low-dimensional motifs (e.g., limit sets) is analytically intractable in high-dimensional nonlinear models such as RNNs. Here, we propose a comprehensive framework to address these two issues, termed diffeomorphic vector field alignment for learned models (DFORM). DFORM learns a nonlinear coordinate transformation between the state spaces of two dynamical systems, which aligns their trajectories in a maximally one-to-one manner. In so doing, DFORM enables an assessment of whether a set of models exhibits topological equivalence, that is, their dynamics are mechanistically similar despite differences in their coordinate systems. A by-product of this methodology is a means to locate dynamical motifs on low-dimensional manifolds embedded within higher-dimensional systems. We verified DFORM's ability to identify linear and nonlinear coordinate transformations using canonical topologically equivalent systems, RNNs, and systems related by nonlinear flows. DFORM was also shown to provide a quantification of similarity between topologically distinct systems. We then demonstrated that DFORM can locate important dynamical motifs including invariant manifolds and saddle limit sets within high-dimensional models. Finally, using a set of RNN models trained on human functional magnetic resonance imaging recordings, we illustrated that DFORM can identify limit cycles from high-dimensional data-driven models, which agreed well with prior numerical analysis.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42055616/",
+    "source_type": "pubmed",
+    "title": "Evolution and forecasting of antiretroviral therapy utilisation in British Columbia: a population-level analysis of provincial drug treatment programme data, 2014-2024.",
+    "author": "Lima Viviane D, Mokhtari Jazi Ali, Montaner Julio S G",
+    "published_date": "2026-Apr-29",
+    "language": "en",
+    "region": "England",
+    "journal": "BMJ open",
+    "topic_tags": [
+      "healthcare"
+    ],
+    "trust_score": 0.54,
+    "content_chunks": [
+      "To characterise temporal trends in antiretroviral therapy (ART) utilisation and forecast short-term changes in regimen distribution within a provincial HIV treatment programme. Population-level longitudinal analysis of administrative drug dispensation data combined with time-series forecasting using recurrent neural network (RNN) models. The British Columbia (BC) Centre for Excellence in HIV/AIDS Drug Treatment Program (DTP), which centrally coordinates and records all publicly funded ART dispensations in BC, Canada. All ART dispensations recorded in the DTP between fiscal years 2014/2015 and 2023/2024. Temporal changes in ART dispensation volume and regimen market share. Forecasts of regimen utilisation were generated using drug-specific RNN models, and predictive performance was evaluated using different measures, including mean absolute percentage error (MAPE) and mean absolute error. Forecast uncertainty was presented using 95% prediction intervals. ART utilisation patterns changed substantially over the study period. Dispensation of second-generation integrase strand transfer inhibitor (INSTI)-based regimens, particularly dolutegravir- and bictegravir-containing combinations, increased steadily, while utilisation of several older regimens, including generic formulations, declined in relative market share. RNN models demonstrated strong predictive performance during temporal validation, with validation MAPE ranging from 0.27% to 2.26% across regimens. For example, the model forecasting bictegravir/emtricitabine/tenofovir alafenamide utilisation showed a validation MAPE of 0.27%, indicating very small prediction error during temporal validation. Forecasts suggest that second-generation INSTI-based regimens will continue to account for the majority of ART dispensation volume within the provincial programme in the near term. Over the past decade, ART utilisation in BC has shifted from older and generic regimens towards newer second-generation INSTI-based combinations. These changes illustrate evolving treatment patterns within a publicly funded HIV programme and may have implications for long-term programme planning as newer therapies replace existing treatment options. In addition, this study demonstrated the potential application of machine learning-based forecasting approaches for analysing pharmaceutical utilisation patterns using administrative health data. Such approaches may complement traditional pharmacoepidemiological methods and provide additional tools for monitoring treatment trends and informing health system planning."
+    ],
+    "_raw_text": "To characterise temporal trends in antiretroviral therapy (ART) utilisation and forecast short-term changes in regimen distribution within a provincial HIV treatment programme. Population-level longitudinal analysis of administrative drug dispensation data combined with time-series forecasting using recurrent neural network (RNN) models. The British Columbia (BC) Centre for Excellence in HIV/AIDS Drug Treatment Program (DTP), which centrally coordinates and records all publicly funded ART dispensations in BC, Canada. All ART dispensations recorded in the DTP between fiscal years 2014/2015 and 2023/2024. Temporal changes in ART dispensation volume and regimen market share. Forecasts of regimen utilisation were generated using drug-specific RNN models, and predictive performance was evaluated using different measures, including mean absolute percentage error (MAPE) and mean absolute error. Forecast uncertainty was presented using 95% prediction intervals. ART utilisation patterns changed substantially over the study period. Dispensation of second-generation integrase strand transfer inhibitor (INSTI)-based regimens, particularly dolutegravir- and bictegravir-containing combinations, increased steadily, while utilisation of several older regimens, including generic formulations, declined in relative market share. RNN models demonstrated strong predictive performance during temporal validation, with validation MAPE ranging from 0.27% to 2.26% across regimens. For example, the model forecasting bictegravir/emtricitabine/tenofovir alafenamide utilisation showed a validation MAPE of 0.27%, indicating very small prediction error during temporal validation. Forecasts suggest that second-generation INSTI-based regimens will continue to account for the majority of ART dispensation volume within the provincial programme in the near term. Over the past decade, ART utilisation in BC has shifted from older and generic regimens towards newer second-generation INSTI-based combinations. These changes illustrate evolving treatment patterns within a publicly funded HIV programme and may have implications for long-term programme planning as newer therapies replace existing treatment options. In addition, this study demonstrated the potential application of machine learning-based forecasting approaches for analysing pharmaceutical utilisation patterns using administrative health data. Such approaches may complement traditional pharmacoepidemiological methods and provide additional tools for monitoring treatment trends and informing health system planning.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.0,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5375
+    }
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42053612/",
+    "source_type": "pubmed",
+    "title": "Diagnosis of Alzheimer's disease based on particle swarm optimization EEG signal channel selection and gated recurrent unit.",
+    "author": "Shen Xianhao, Ding Lei, Li Xuewen, Gu Ling, Yang Jiazhi",
+    "published_date": "2026-Apr-29",
+    "language": "en",
+    "region": "England",
+    "journal": "Computer methods in biomechanics and biomedical engineering",
+    "topic_tags": [
+      "research",
+      "healthcare"
+    ],
+    "trust_score": 0.54,
+    "content_chunks": [
+      "Electroencephalogram (EEG) reflect changes in the electrophysiological activity of the brain and can be used in the diagnosis of Alzheimer's disease (AD). Each EEG channel provides real-time information about the brain, while different EEG channels contain different information about the brain. Using all EEG channel data for AD diagnosis contains redundancy data, leading to increased computation and reduced data analysis accuracy. In this paper, a diagnostic method for AD based on Particle Swarm Optimization (PSO) EEG channel selection and Gated Recurrent Unit (GRU) is proposed. Using EEG energy as the fitness function and PSO to select EEG channels, the redundant information in EEG data is reduced and the accuracy of EEG data analysis is improved. GRU is a special kind of recurrent neural network (RNN) structure. It uses EEG data extracted by the principal component analysis (PCA) feature based on singular value decomposition (SVD) as input to the model. And it has a good advantage in analyzing the time series of EEG. The results show that the classification accuracy of the method in this paper reaches 0.9487, which is higher than the performance of other proposed methods. Compared to the results of using all EEG channel data analysis, the classification accuracy of this method was improved by 0.0757. It shows that the method proposed in this paper can improve the classification accuracy of EEG in AD classification tasks and can be applied to related classification tasks."
+    ],
+    "_raw_text": "Electroencephalogram (EEG) reflect changes in the electrophysiological activity of the brain and can be used in the diagnosis of Alzheimer's disease (AD). Each EEG channel provides real-time information about the brain, while different EEG channels contain different information about the brain. Using all EEG channel data for AD diagnosis contains redundancy data, leading to increased computation and reduced data analysis accuracy. In this paper, a diagnostic method for AD based on Particle Swarm Optimization (PSO) EEG channel selection and Gated Recurrent Unit (GRU) is proposed. Using EEG energy as the fitness function and PSO to select EEG channels, the redundant information in EEG data is reduced and the accuracy of EEG data analysis is improved. GRU is a special kind of recurrent neural network (RNN) structure. It uses EEG data extracted by the principal component analysis (PCA) feature based on singular value decomposition (SVD) as input to the model. And it has a good advantage in analyzing the time series of EEG. The results show that the classification accuracy of the method in this paper reaches 0.9487, which is higher than the performance of other proposed methods. Compared to the results of using all EEG channel data analysis, the classification accuracy of this method was improved by 0.0757. It shows that the method proposed in this paper can improve the classification accuracy of EEG in AD classification tasks and can be applied to related classification tasks.",
+    "_citation_count": 0,
+    "score_breakdown": {
+      "author_credibility": 0.75,
+      "citation_score": 0.0,
+      "domain_authority": 1.0,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.0,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5375
+    }
+  }
+]

@@ -1,0 +1,9 @@
+# Terminal 1 — FastAPI backend
+cd "d:\Jetty_AI Assignment\Ai_Data_Scraper\ai-trust-scraper"
+pip install fastapi "uvicorn[standard]" pydantic
+uvicorn backend.api:app --reload --port 8000
+
+# Terminal 2 — React frontend
+cd "d:\Jetty_AI Assignment\Ai_Data_Scraper\ai-trust-scraper\frontend"
+npm install
+npm run dev

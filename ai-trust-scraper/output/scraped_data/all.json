@@ -1,0 +1,393 @@
+{
+  "generated_at": "2026-05-05T19:50:05.125877+00:00",
+  "execution_time_ms": 2767.27,
+  "total_items": 15,
+  "items": [
+    {
+      "source_url": "https://huggingface.co/blog/",
+      "source_type": "blog",
+      "title": "Hugging Face – Blog",
+      "author": "Huggingface Team",
+      "published_date": "2026-03-05",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [
+        "multimodal"
+      ],
+      "trust_score": 0.63,
+      "content_chunks": [
+        "NEO-unify: Building Native Multimodal Unified Models End to End Mar 5 • 148"
+      ],
+      "_raw_text": "NEO-unify: Building Native Multimodal Unified Models End to End Mar 5 • 148",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.82,
+        "recency_score": 1.0,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.63
+      }
+    },
+    {
+      "source_url": "https://www.anthropic.com/",
+      "source_type": "blog",
+      "title": "Home \\ Anthropic",
+      "author": "@AnthropicAI",
+      "published_date": "",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [
+        "LLM",
+        "safety",
+        "policy"
+      ],
+      "trust_score": 0.59,
+      "content_chunks": [
+        "Skip to main content Skip to footer Project Glasswing Securing critical software for the AI era Continue reading Read the story Read the story Latest releases Claude Opus 4.7 Introducing a smarter, more capable Opus for coding, agents, vision, and complex professional work. Model details Model details Model details Date April 16, 2026 Category Announcements Read announcement Read announcement Read announcement Claude is a space to think No ads. No sponsored content. Just genuinely helpful conversations. Date February 4, 2026 Category Announcements Read the post Read the post Read the post Claude on Mars The first AI-assisted drive on another planet. Claude helped NASA’s Perseverance rover travel four hundred meters on Mars. Date January 30, 2026 Category Announcements Read the story Read the story Read the story At Anthropic, we build AI to serve humanity’s long-term well-being. ‍ Core views on AI safety Announcements Anthropic’s Responsible Scaling Policy Alignment Science Anthropic Academy: Build and Learn with Claude Education Anthropic’s Economic Index Economic Research Claude’s Constitution Announcements"
+      ],
+      "_raw_text": "Skip to main content Skip to footer Project Glasswing Securing critical software for the AI era Continue reading Read the story Read the story Latest releases Claude Opus 4.7 Introducing a smarter, more capable Opus for coding, agents, vision, and complex professional work. Model details Model details Model details Date April 16, 2026 Category Announcements Read announcement Read announcement Read announcement Claude is a space to think No ads. No sponsored content. Just genuinely helpful conversations. Date February 4, 2026 Category Announcements Read the post Read the post Read the post Claude on Mars The first AI-assisted drive on another planet. Claude helped NASA’s Perseverance rover travel four hundred meters on Mars. Date January 30, 2026 Category Announcements Read the story Read the story Read the story At Anthropic, we build AI to serve humanity’s long-term well-being. ‍ Core views on AI safety Announcements Anthropic’s Responsible Scaling Policy Alignment Science Anthropic Academy: Build and Learn with Claude Education Anthropic’s Economic Index Economic Research Claude’s Constitution Announcements",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.85,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5875
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2509.23577v1",
+      "source_type": "arxiv",
+      "title": "ML-Asset Management: Curation, Discovery, and Utilization",
+      "author": "Mengying Wang, Moming Duan, Yicong Huang, Chen Li, Bingsheng He, Yinghui Wu",
+      "published_date": "2025-09-28",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [],
+      "trust_score": 0.56,
+      "content_chunks": [
+        "Machine learning (ML) assets, such as models, datasets, and metadata, are central to modern ML workflows. Despite their explosive growth in practice, these assets are often underutilized due to fragmented documentation, siloed storage, inconsistent licensing, and lack of unified discovery mechanisms, making ML-asset management an urgent challenge. This tutorial offers a comprehensive overview of ML-asset management activities across its lifecycle, including curation, discovery, and utilization. We provide a categorization of ML assets, and major management issues, survey state-of-the-art techniques, and identify emerging opportunities at each stage. We further highlight system-level challenges related to scalability, lineage, and unified indexing. Through live demonstrations of systems, this tutorial equips both researchers and practitioners with actionable insights and practical tools for advancing ML-asset management in real-world and domain-specific settings."
+      ],
+      "_raw_text": "Machine learning (ML) assets, such as models, datasets, and metadata, are central to modern ML workflows. Despite their explosive growth in practice, these assets are often underutilized due to fragmented documentation, siloed storage, inconsistent licensing, and lack of unified discovery mechanisms, making ML-asset management an urgent challenge. This tutorial offers a comprehensive overview of ML-asset management activities across its lifecycle, including curation, discovery, and utilization. We provide a categorization of ML assets, and major management issues, survey state-of-the-art techniques, and identify emerging opportunities at each stage. We further highlight system-level challenges related to scalability, lineage, and unified indexing. Through live demonstrations of systems, this tutorial equips both researchers and practitioners with actionable insights and practical tools for advancing ML-asset management in real-world and domain-specific settings.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.85,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5575
+      }
+    },
+    {
+      "source_url": "https://deepmind.google/discover/blog/",
+      "source_type": "blog",
+      "title": "News",
+      "author": "Deepmind Team",
+      "published_date": "April 2026",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [],
+      "trust_score": 0.55,
+      "content_chunks": [
+        "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more"
+      ],
+      "_raw_text": "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.88,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.545
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2407.15100v3",
+      "source_type": "arxiv",
+      "title": "A General Framework for Data-Use Auditing of ML Models",
+      "author": "Zonghao Huang, Neil Zhenqiang Gong, Michael K. Reiter",
+      "published_date": "2024-07-21",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "research"
+      ],
+      "trust_score": 0.53,
+      "content_chunks": [
+        "Auditing the use of data in training machine-learning (ML) models is an increasingly pressing challenge, as myriad ML practitioners routinely leverage the effort of content creators to train models without their permission. In this paper, we propose a general method to audit an ML model for the use of a data-owner's data in training, without prior knowledge of the ML task for which the data might be used. Our method leverages any existing black-box membership inference method, together with a sequential hypothesis test of our own design, to detect data use with a quantifiable, tunable false-detection rate. We show the effectiveness of our proposed framework by applying it to audit data use in two types of ML models, namely image classifiers and foundation models."
+      ],
+      "_raw_text": "Auditing the use of data in training machine-learning (ML) models is an increasingly pressing challenge, as myriad ML practitioners routinely leverage the effort of content creators to train models without their permission. In this paper, we propose a general method to audit an ML model for the use of a data-owner's data in training, without prior knowledge of the ML task for which the data might be used. Our method leverages any existing black-box membership inference method, together with a sequential hypothesis test of our own design, to detect data use with a quantifiable, tunable false-detection rate. We show the effectiveness of our proposed framework by applying it to audit data use in two types of ML models, namely image classifiers and foundation models.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.7,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5275
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2312.05530v2",
+      "source_type": "arxiv",
+      "title": "Towards Smart Healthcare: Challenges and Opportunities in IoT and ML",
+      "author": "Munshi Saifuzzaman, Tajkia Nuri Ananna",
+      "published_date": "2023-12-09",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "healthcare"
+      ],
+      "trust_score": 0.49,
+      "content_chunks": [
+        "The COVID-19 pandemic and other ongoing health crises have underscored the need for prompt healthcare services worldwide. The traditional healthcare system, centered around hospitals and clinics, has proven inadequate in the face of such challenges. Intelligent wearable devices, a key part of modern healthcare, leverage Internet of Things technology to collect extensive data related to the environment as well as psychological, behavioral, and physical health. However, managing the substantial data generated by these wearables and other IoT devices in healthcare poses a significant challenge, potentially impeding decision-making processes. Recent interest has grown in applying data analytics for extracting information, gaining insights, and making predictions. Additionally, machine learning, known for addressing various big data and networking challenges, has seen increased implementation to enhance IoT systems in healthcare. This chapter focuses exclusively on exploring the hurdles encountered when integrating ML methods into the IoT healthcare sector. It offers a comprehensive summary of current research challenges and potential opportunities, categorized into three scenarios: IoT-based, ML-based, and the implementation of machine learning methodologies in the IoT-based healthcare industry. This compilation will assist future researchers, healthcare professionals, and government agencies by offering valuable insights into recent smart healthcare advancements."
+      ],
+      "_raw_text": "The COVID-19 pandemic and other ongoing health crises have underscored the need for prompt healthcare services worldwide. The traditional healthcare system, centered around hospitals and clinics, has proven inadequate in the face of such challenges. Intelligent wearable devices, a key part of modern healthcare, leverage Internet of Things technology to collect extensive data related to the environment as well as psychological, behavioral, and physical health. However, managing the substantial data generated by these wearables and other IoT devices in healthcare poses a significant challenge, potentially impeding decision-making processes. Recent interest has grown in applying data analytics for extracting information, gaining insights, and making predictions. Additionally, machine learning, known for addressing various big data and networking challenges, has seen increased implementation to enhance IoT systems in healthcare. This chapter focuses exclusively on exploring the hurdles encountered when integrating ML methods into the IoT healthcare sector. It offers a comprehensive summary of current research challenges and potential opportunities, categorized into three scenarios: IoT-based, ML-based, and the implementation of machine learning methodologies in the IoT-based healthcare industry. This compilation will assist future researchers, healthcare professionals, and government agencies by offering valuable insights into recent smart healthcare advancements.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4875
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2309.05805v1",
+      "source_type": "arxiv",
+      "title": "Online ML Self-adaptation in Face of Traps",
+      "author": "Michal Töpfer, František Plášil, Tomáš Bureš, Petr Hnětynka, Martin Kruliš, Danny Weyns",
+      "published_date": "2023-09-11",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "research"
+      ],
+      "trust_score": 0.49,
+      "content_chunks": [
+        "Online machine learning (ML) is often used in self-adaptive systems to strengthen the adaptation mechanism and improve the system utility. Despite such benefits, applying online ML for self-adaptation can be challenging, and not many papers report its limitations. Recently, we experimented with applying online ML for self-adaptation of a smart farming scenario and we had faced several unexpected difficulties -- traps -- that, to our knowledge, are not discussed enough in the community. In this paper, we report our experience with these traps. Specifically, we discuss several traps that relate to the specification and online training of the ML-based estimators, their impact on self-adaptation, and the approach used to evaluate the estimators. Our overview of these traps provides a list of lessons learned, which can serve as guidance for other researchers and practitioners when applying online ML for self-adaptation."
+      ],
+      "_raw_text": "Online machine learning (ML) is often used in self-adaptive systems to strengthen the adaptation mechanism and improve the system utility. Despite such benefits, applying online ML for self-adaptation can be challenging, and not many papers report its limitations. Recently, we experimented with applying online ML for self-adaptation of a smart farming scenario and we had faced several unexpected difficulties -- traps -- that, to our knowledge, are not discussed enough in the community. In this paper, we report our experience with these traps. Specifically, we discuss several traps that relate to the specification and online training of the ML-based estimators, their impact on self-adaptation, and the approach used to evaluate the estimators. Our overview of these traps provides a list of lessons learned, which can serve as guidance for other researchers and practitioners when applying online ML for self-adaptation.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4875
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2502.07026v2",
+      "source_type": "arxiv",
+      "title": "Machine Learning for Everyone: Simplifying Healthcare Analytics with BigQuery ML",
+      "author": "Mohammad Amir Salari, Bahareh Rahmani",
+      "published_date": "2025-02-10",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "healthcare",
+        "research"
+      ],
+      "trust_score": 0.48,
+      "content_chunks": [
+        "Machine learning (ML) transforms healthcare by enabling predictive analytics, personalized treatments, and improved patient outcomes. However, traditional ML workflows often require specialized skills, infrastructure, and resources, limiting accessibility for many healthcare professionals. This paper explores how BigQuery ML Cloud service helps healthcare researchers and data analysts to build and deploy models using SQL, without need for advanced ML knowledge. Our results demonstrate that the Boosted Tree model achieved the highest performance among the three models making it highly effective for diabetes prediction. BigQuery ML directly integrates predictive analytics into their workflows to inform decision-making and support patient care. We reveal this capability through a case study on diabetes prediction using the Diabetes Health Indicators Dataset. Our study underscores BigQuery ML's role in democratizing machine learning, enabling faster, scalable, and efficient predictive analytics that can directly enhance healthcare decision-making processes. This study aims to bridge the gap between advanced machine learning and practical healthcare analytics by providing detailed insights into BigQuery ML's capabilities. By demonstrating its utility in a real-world case study, we highlight its potential to simplify complex workflows and expand access to predictive tools for a broader audience of healthcare professionals."
+      ],
+      "_raw_text": "Machine learning (ML) transforms healthcare by enabling predictive analytics, personalized treatments, and improved patient outcomes. However, traditional ML workflows often require specialized skills, infrastructure, and resources, limiting accessibility for many healthcare professionals. This paper explores how BigQuery ML Cloud service helps healthcare researchers and data analysts to build and deploy models using SQL, without need for advanced ML knowledge. Our results demonstrate that the Boosted Tree model achieved the highest performance among the three models making it highly effective for diabetes prediction. BigQuery ML directly integrates predictive analytics into their workflows to inform decision-making and support patient care. We reveal this capability through a case study on diabetes prediction using the Diabetes Health Indicators Dataset. Our study underscores BigQuery ML's role in democratizing machine learning, enabling faster, scalable, and efficient predictive analytics that can directly enhance healthcare decision-making processes. This study aims to bridge the gap between advanced machine learning and practical healthcare analytics by providing detailed insights into BigQuery ML's capabilities. By demonstrating its utility in a real-world case study, we highlight its potential to simplify complex workflows and expand access to predictive tools for a broader audience of healthcare professionals.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.7,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4775
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2011.12715v1",
+      "source_type": "arxiv",
+      "title": "Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication",
+      "author": "Jayant Gupchup, Ashkan Aazami, Yaran Fan, Senja Filipi, Tom Finley, Scott Inglis, Marcus Asteborg, Luke Caroll, Rajan Chari, Markus Cozowicz, Vishak Gopal, Vinod Prakash, Sasikanth Bendapudi, Jack Gerrits, Eric Lau, Huazhou Liu, Marco Rossi, Dima Slobodianyk, Dmitri Birjukov, Matty Cooper, Nilesh Javar, Dmitriy Perednya, Sriram Srinivasan, John Langford, Ross Cutler, Johannes Gehrke",
+      "published_date": "2020-11-23",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "research"
+      ],
+      "trust_score": 0.43,
+      "content_chunks": [
+        "Large software systems tune hundreds of 'constants' to optimize their runtime performance. These values are commonly derived through intuition, lab tests, or A/B tests. A 'one-size-fits-all' approach is often sub-optimal as the best value depends on runtime context. In this paper, we provide an experimental approach to replace constants with learned contextual functions for Skype - a widely used real-time communication (RTC) application. We present Resonance, a system based on contextual bandits (CB). We describe experiences from three real-world experiments: applying it to the audio, video, and transport components in Skype. We surface a unique and practical challenge of performing machine learning (ML) inference in large software systems written using encapsulation principles. Finally, we open-source FeatureBroker, a library to reduce the friction in adopting ML models in such development environments"
+      ],
+      "_raw_text": "Large software systems tune hundreds of 'constants' to optimize their runtime performance. These values are commonly derived through intuition, lab tests, or A/B tests. A 'one-size-fits-all' approach is often sub-optimal as the best value depends on runtime context. In this paper, we provide an experimental approach to replace constants with learned contextual functions for Skype - a widely used real-time communication (RTC) application. We present Resonance, a system based on contextual bandits (CB). We describe experiences from three real-world experiments: applying it to the audio, video, and transport components in Skype. We surface a unique and practical challenge of performing machine learning (ML) inference in large software systems written using encapsulation principles. Finally, we open-source FeatureBroker, a library to reduce the friction in adopting ML models in such development environments",
+      "score_breakdown": {
+        "author_credibility": 0.4846,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.15,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4261
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/1312.7869v2",
+      "source_type": "arxiv",
+      "title": "Consistent Bounded-Asynchronous Parameter Servers for Distributed ML",
+      "author": "Jinliang Wei, Wei Dai, Abhimanu Kumar, Xun Zheng, Qirong Ho, Eric P. Xing",
+      "published_date": "2013-12-30",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "research"
+      ],
+      "trust_score": 0.42,
+      "content_chunks": [
+        "In distributed ML applications, shared parameters are usually replicated among computing nodes to minimize network overhead. Therefore, proper consistency model must be carefully chosen to ensure algorithm's correctness and provide high throughput. Existing consistency models used in general-purpose databases and modern distributed ML systems are either too loose to guarantee correctness of the ML algorithms or too strict and thus fail to fully exploit the computing power of the underlying distributed system. Many ML algorithms fall into the category of \\emph{iterative convergent algorithms} which start from a randomly chosen initial point and converge to optima by repeating iteratively a set of procedures. We've found that many such algorithms are to a bounded amount of inconsistency and still converge correctly. This property allows distributed ML to relax strict consistency models to improve system performance while theoretically guarantees algorithmic correctness. In this paper, we present several relaxed consistency models for asynchronous parallel computation and theoretically prove their algorithmic correctness. The proposed consistency models are implemented in a distributed parameter server and evaluated in the context of a popular ML application: topic modeling."
+      ],
+      "_raw_text": "In distributed ML applications, shared parameters are usually replicated among computing nodes to minimize network overhead. Therefore, proper consistency model must be carefully chosen to ensure algorithm's correctness and provide high throughput. Existing consistency models used in general-purpose databases and modern distributed ML systems are either too loose to guarantee correctness of the ML algorithms or too strict and thus fail to fully exploit the computing power of the underlying distributed system.   Many ML algorithms fall into the category of \\emph{iterative convergent algorithms} which start from a randomly chosen initial point and converge to optima by repeating iteratively a set of procedures. We've found that many such algorithms are to a bounded amount of inconsistency and still converge correctly. This property allows distributed ML to relax strict consistency models to improve system performance while theoretically guarantees algorithmic correctness. In this paper, we present several relaxed consistency models for asynchronous parallel computation and theoretically prove their algorithmic correctness. The proposed consistency models are implemented in a distributed parameter server and evaluated in the context of a popular ML application: topic modeling.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.15,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4175
+      }
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=2oGsCHlfBUg",
+      "source_type": "youtube",
+      "title": "Complete ML Machine Learning in one shot | Semester Exam | Hindi",
+      "author": "KnowledgeGATE by Sanchit Sir",
+      "published_date": "",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [],
+      "trust_score": 0.41,
+      "content_chunks": [
+        "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou..."
+      ],
+      "_raw_text": "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou...",
+      "_description": "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou...",
+      "score_breakdown": {
+        "author_credibility": 0.55,
+        "citation_score": 0.0667,
+        "domain_authority": 0.62,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4058
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/2211.05075v1",
+      "source_type": "arxiv",
+      "title": "Supporting AI/ML Security Workers through an Adversarial Techniques, Tools, and Common Knowledge (AI/ML ATT&CK) Framework",
+      "author": "Mohamad Fazelnia, Ahmet Okutan, Mehdi Mirakhorli",
+      "published_date": "2022-11-09",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "research"
+      ],
+      "trust_score": 0.4,
+      "content_chunks": [
+        "This paper focuses on supporting AI/ML Security Workers -- professionals involved in the development and deployment of secure AI-enabled software systems. It presents AI/ML Adversarial Techniques, Tools, and Common Knowledge (AI/ML ATT&CK) framework to enable AI/ML Security Workers intuitively to explore offensive and defensive tactics."
+      ],
+      "_raw_text": "This paper focuses on supporting AI/ML Security Workers -- professionals involved in the development and deployment of secure AI-enabled software systems. It presents AI/ML Adversarial Techniques, Tools, and Common Knowledge (AI/ML ATT&CK) framework to enable AI/ML Security Workers intuitively to explore offensive and defensive tactics.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.3,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.3975
+      }
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=ZftI2fEz0Fw",
+      "source_type": "youtube",
+      "title": "What is Machine Learning? | 100 Days of Machine Learning",
+      "author": "CampusX",
+      "published_date": "",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [],
+      "trust_score": 0.39,
+      "content_chunks": [
+        "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi..."
+      ],
+      "_raw_text": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi...",
+      "_description": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi...",
+      "score_breakdown": {
+        "author_credibility": 0.55,
+        "citation_score": 0.0,
+        "domain_authority": 0.62,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.3925
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/1608.03350v1",
+      "source_type": "arxiv",
+      "title": "Close Encounters of the Higher Kind Emulating Constructor Classes in Standard ML",
+      "author": "Yutaka Nagashima, Liam O'Connor",
+      "published_date": "2016-08-11",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [],
+      "trust_score": 0.37,
+      "content_chunks": [
+        "We implement a library for encoding constructor classes in Standard ML, including elaboration from minimal definitions, and automatic instantiation of superclasses."
+      ],
+      "_raw_text": "We implement a library for encoding constructor classes in Standard ML, including elaboration from minimal definitions, and automatic instantiation of superclasses.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.15,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.3675
+      }
+    },
+    {
+      "source_url": "http://arxiv.org/abs/1912.06166v3",
+      "source_type": "arxiv",
+      "title": "ABOUT ML: Annotation and Benchmarking on Understanding and Transparency of Machine Learning Lifecycles",
+      "author": "Inioluwa Deborah Raji, Jingying Yang",
+      "published_date": "2019-12-12",
+      "language": "en",
+      "region": "Global",
+      "topic_tags": [
+        "benchmark",
+        "interpretability"
+      ],
+      "trust_score": 0.37,
+      "content_chunks": [
+        "We present the \"Annotation and Benchmarking on Understanding and Transparency of Machine Learning Lifecycles\" (ABOUT ML) project as an initiative to operationalize ML transparency and work towards a standard ML documentation practice. We make the case for the project's relevance and effectiveness in consolidating disparate efforts across a variety of stakeholders, as well as bringing in the perspectives of currently missing voices that will be valuable in shaping future conversations. We describe the details of the initiative and the gaps we hope this project will help address."
+      ],
+      "_raw_text": "We present the \"Annotation and Benchmarking on Understanding and Transparency of Machine Learning Lifecycles\" (ABOUT ML) project as an initiative to operationalize ML transparency and work towards a standard ML documentation practice. We make the case for the project's relevance and effectiveness in consolidating disparate efforts across a variety of stakeholders, as well as bringing in the perspectives of currently missing voices that will be valuable in shaping future conversations. We describe the details of the initiative and the gaps we hope this project will help address.",
+      "score_breakdown": {
+        "author_credibility": 0.45,
+        "citation_score": 0.0,
+        "domain_authority": 0.9,
+        "recency_score": 0.15,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.3675
+      }
+    }
+  ]
+}

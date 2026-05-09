@@ -1,0 +1,80 @@
+[
+  {
+    "source_url": "https://huggingface.co/blog/",
+    "source_type": "blog",
+    "title": "Hugging Face – Blog",
+    "author": "Huggingface Team",
+    "published_date": "2026-03-05",
+    "language": "en",
+    "region": "US",
+    "topic_tags": [
+      "multimodal"
+    ],
+    "trust_score": 0.63,
+    "content_chunks": [
+      "NEO-unify: Building Native Multimodal Unified Models End to End Mar 5 • 148"
+    ],
+    "_raw_text": "NEO-unify: Building Native Multimodal Unified Models End to End Mar 5 • 148",
+    "score_breakdown": {
+      "author_credibility": 0.9,
+      "citation_score": 0.0,
+      "domain_authority": 0.82,
+      "recency_score": 1.0,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.63
+    }
+  },
+  {
+    "source_url": "https://www.anthropic.com/",
+    "source_type": "blog",
+    "title": "Home \\ Anthropic",
+    "author": "@AnthropicAI",
+    "published_date": "",
+    "language": "en",
+    "region": "US",
+    "topic_tags": [
+      "LLM",
+      "safety",
+      "policy"
+    ],
+    "trust_score": 0.59,
+    "content_chunks": [
+      "Skip to main content Skip to footer Project Glasswing Securing critical software for the AI era Continue reading Read the story Read the story Latest releases Claude Opus 4.7 Introducing a smarter, more capable Opus for coding, agents, vision, and complex professional work. Model details Model details Model details Date April 16, 2026 Category Announcements Read announcement Read announcement Read announcement Claude is a space to think No ads. No sponsored content. Just genuinely helpful conversations. Date February 4, 2026 Category Announcements Read the post Read the post Read the post Claude on Mars The first AI-assisted drive on another planet. Claude helped NASA’s Perseverance rover travel four hundred meters on Mars. Date January 30, 2026 Category Announcements Read the story Read the story Read the story At Anthropic, we build AI to serve humanity’s long-term well-being. ‍ Core views on AI safety Announcements Anthropic’s Responsible Scaling Policy Alignment Science Anthropic Academy: Build and Learn with Claude Education Anthropic’s Economic Index Economic Research Claude’s Constitution Announcements"
+    ],
+    "_raw_text": "Skip to main content Skip to footer Project Glasswing Securing critical software for the AI era Continue reading Read the story Read the story Latest releases Claude Opus 4.7 Introducing a smarter, more capable Opus for coding, agents, vision, and complex professional work. Model details Model details Model details Date April 16, 2026 Category Announcements Read announcement Read announcement Read announcement Claude is a space to think No ads. No sponsored content. Just genuinely helpful conversations. Date February 4, 2026 Category Announcements Read the post Read the post Read the post Claude on Mars The first AI-assisted drive on another planet. Claude helped NASA’s Perseverance rover travel four hundred meters on Mars. Date January 30, 2026 Category Announcements Read the story Read the story Read the story At Anthropic, we build AI to serve humanity’s long-term well-being. ‍ Core views on AI safety Announcements Anthropic’s Responsible Scaling Policy Alignment Science Anthropic Academy: Build and Learn with Claude Education Anthropic’s Economic Index Economic Research Claude’s Constitution Announcements",
+    "score_breakdown": {
+      "author_credibility": 0.9,
+      "citation_score": 0.0,
+      "domain_authority": 0.85,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.5875
+    }
+  },
+  {
+    "source_url": "https://deepmind.google/discover/blog/",
+    "source_type": "blog",
+    "title": "News",
+    "author": "Deepmind Team",
+    "published_date": "April 2026",
+    "language": "en",
+    "region": "US",
+    "topic_tags": [],
+    "trust_score": 0.55,
+    "content_chunks": [
+      "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more"
+    ],
+    "_raw_text": "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more",
+    "score_breakdown": {
+      "author_credibility": 0.9,
+      "citation_score": 0.0,
+      "domain_authority": 0.88,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.545
+    }
+  }
+]

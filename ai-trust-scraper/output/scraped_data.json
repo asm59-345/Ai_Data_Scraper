@@ -1,0 +1,418 @@
+{
+  "generated_at": "2026-05-09T18:07:00.378474+00:00",
+  "execution_time_ms": 4709.78,
+  "total_items": 14,
+  "items": [
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42100330/",
+      "source_type": "pubmed",
+      "title": "Nausea and vomiting as adverse events of oliceridine: a systematic review and meta-analysis of randomized controlled trials.",
+      "author": "Zeng Jinfang, Yang Shu, Jian Jinjin, Zhu Minmin",
+      "published_date": "2026-01-01",
+      "language": "en",
+      "region": "Switzerland",
+      "journal": "Frontiers in pharmacology",
+      "topic_tags": [
+        "benchmark",
+        "bias",
+        "healthcare",
+        "safety"
+      ],
+      "trust_score": 0.76,
+      "content_chunks": [
+        "Postoperative nausea and vomiting (PONV) continue to be some of the most common and troublesome complications following anesthesia. Oliceridine, a G protein-biased µ-opioid receptor agonist, has the potential to provide effective pain relief while reducing the incidence of opioid-associated side effects. The aim of this study is to evaluate the effectiveness and safety of oliceridine for preventing PONV compared with morphine and a placebo. A comprehensive search was performed across PubMed/MEDLINE, Embase (Ovid), and the Cochrane Central Register of Controlled Trials (CENTRAL) from their inception up to 30 September 2025, without any language limitations. Randomized controlled trials (RCTs) comparing oliceridine with morphine or placebo were included. Outcomes included incidence of nausea, vomiting, and other opioid-related adverse events (ORAEs). Pooled risk ratios (RRs) and their corresponding 95% confidence intervals (CIs) were estimated using random-effects models. This meta-analysis included five studies, with a total of 1,767 patients. The pooled analysis showed that oliceridine significantly reduced the incidence of postoperative nausea compared with morphine (risk ratio [RR] = 0.80; 95% confidence interval [CI] = 0.70-0.90). In dose-specific analyses, the RRs were 0.58 (95% CI = 0.50-0.67) for the 0.1 mg group, 0.82 (95% CI = 0.74-0.92) for the 0.35 mg group, and 1.00 (95% CI = 0.91-1.11) for the 0.5 mg group. Oliceridine also decreased the risk of postoperative vomiting (RR = 0.55; 95% CI = 0.45-0.67) relative to morphine. Subgroup analyses yielded RRs of 0.39 (95% CI = 0.31-0.50), 0.54 (95% CI = 0.38-0.78), and 0.80 (95% CI = 0.68-0.95) for the 0.1 mg, 0.35 mg, and 0.5 mg groups, respectively. Moreover, oliceridine appeared to lower the incidence of opioid-related adverse events, including dizziness (RR = 0.89; 95% CI = 0.76-1.04), dry mouth (RR = 0.50; 95% CI = 0.37-0.69), pruritus (RR = 0.50; 95% CI = 0.35-0.70), and somnolence (RR = 0.61; 95% CI = 0.45-0.82). Based on the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system, the certainty of evidence ranged from moderate to low. Oliceridine, particularly at 0.1-0.35 mg demand doses, reduces PONV and several opioid-related adverse events compared with morphine while maintaining effective analgesia. However, compared with placebo, typical opioid adverse effects remain. Further large-scale RCTs are warranted. https://www.crd.york.ac.uk/PROSPERO/view/CRD42024604703, identifier PROSPERO (CRD42024604703)."
+      ],
+      "_raw_text": "Postoperative nausea and vomiting (PONV) continue to be some of the most common and troublesome complications following anesthesia. Oliceridine, a G protein-biased µ-opioid receptor agonist, has the potential to provide effective pain relief while reducing the incidence of opioid-associated side effects. The aim of this study is to evaluate the effectiveness and safety of oliceridine for preventing PONV compared with morphine and a placebo. A comprehensive search was performed across PubMed/MEDLINE, Embase (Ovid), and the Cochrane Central Register of Controlled Trials (CENTRAL) from their inception up to 30 September 2025, without any language limitations. Randomized controlled trials (RCTs) comparing oliceridine with morphine or placebo were included. Outcomes included incidence of nausea, vomiting, and other opioid-related adverse events (ORAEs). Pooled risk ratios (RRs) and their corresponding 95% confidence intervals (CIs) were estimated using random-effects models. This meta-analysis included five studies, with a total of 1,767 patients. The pooled analysis showed that oliceridine significantly reduced the incidence of postoperative nausea compared with morphine (risk ratio [RR] = 0.80; 95% confidence interval [CI] = 0.70-0.90). In dose-specific analyses, the RRs were 0.58 (95% CI = 0.50-0.67) for the 0.1 mg group, 0.82 (95% CI = 0.74-0.92) for the 0.35 mg group, and 1.00 (95% CI = 0.91-1.11) for the 0.5 mg group. Oliceridine also decreased the risk of postoperative vomiting (RR = 0.55; 95% CI = 0.45-0.67) relative to morphine. Subgroup analyses yielded RRs of 0.39 (95% CI = 0.31-0.50), 0.54 (95% CI = 0.38-0.78), and 0.80 (95% CI = 0.68-0.95) for the 0.1 mg, 0.35 mg, and 0.5 mg groups, respectively. Moreover, oliceridine appeared to lower the incidence of opioid-related adverse events, including dizziness (RR = 0.89; 95% CI = 0.76-1.04), dry mouth (RR = 0.50; 95% CI = 0.37-0.69), pruritus (RR = 0.50; 95% CI = 0.35-0.70), and somnolence (RR = 0.61; 95% CI = 0.45-0.82). Based on the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system, the certainty of evidence ranged from moderate to low. Oliceridine, particularly at 0.1-0.35 mg demand doses, reduces PONV and several opioid-related adverse events compared with morphine while maintaining effective analgesia. However, compared with placebo, typical opioid adverse effects remain. Further large-scale RCTs are warranted. https://www.crd.york.ac.uk/PROSPERO/view/CRD42024604703, identifier PROSPERO (CRD42024604703).",
+      "_citation_count": 38,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.6333,
+        "domain_authority": 1.0,
+        "recency_score": 1.0,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.7642
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42087456/",
+      "source_type": "pubmed",
+      "title": "Increasing the reporting of adverse drug reaction-related hospitalizations using an ICD-10-based identification workflow: A multicentre study from Switzerland.",
+      "author": "Weber Georgia Anita, Bartel Sophie-Charlotte, Boch Michael, Rosen Christoph, Bodmer Michael, Hug Balthasar Luzius, Stammschulte Thomas, Beeler Patrick E",
+      "published_date": "2026-May-05",
+      "language": "en",
+      "region": "England",
+      "journal": "British journal of clinical pharmacology",
+      "topic_tags": [
+        "healthcare",
+        "LLM",
+        "safety"
+      ],
+      "trust_score": 0.68,
+      "content_chunks": [
+        "Reporting adverse drug reactions (ADRs) is essential for drug safety. In Switzerland, healthcare professionals are legally required to report serious and unlabelled ADRs, yet under-reporting remains widespread. We tested a novel method to increase reporting of ADR-related hospitalizations. This retrospective observational study used ADR-indicative ICD-10 codes to screen admissions to four Swiss hospitals, identify suspected drugs and send individual case safety reports (ICSRs) of confirmed cases to Swissmedic. Participating hospitals previously reported ~18 ICSRs annually. During the study period (7/2023-12/2023), 200 ADR-related hospitalizations were reported following a review of 814 pre-filtered admissions. Most ICSR data were available in structured format: Median age of patients was 59 (interquartile range [IQR] 42-75); 87 (44%) males; median of two comorbidities (IQR 1-3); the three most frequent ADRs were 'K52.1 Toxic gastroenteritis and colitis' (11 [6%]), 'T42.4 Poisoning by benzodiazepines' (10 [5%]) and 'R11 Nausea and vomiting' (10 [5%]). Discharge reports contained free-text information on suspected drugs: More than half of ADR-related hospitalizations were caused by antineoplastics (45 [23%]), psycholeptics (38 [19%]), opioids and other analgesics (34 [17%]). The median time to screen a case was 1 min, 8 min to collect, compile and send data of confirmed cases. The approach successfully increased reporting of serious ADRs. The time investment for creating ICSRs might soon be rendered obsolete, as most data are available in structured format, and large language models are key to identifying suspected drugs in discharge reports."
+      ],
+      "_raw_text": "Reporting adverse drug reactions (ADRs) is essential for drug safety. In Switzerland, healthcare professionals are legally required to report serious and unlabelled ADRs, yet under-reporting remains widespread. We tested a novel method to increase reporting of ADR-related hospitalizations. This retrospective observational study used ADR-indicative ICD-10 codes to screen admissions to four Swiss hospitals, identify suspected drugs and send individual case safety reports (ICSRs) of confirmed cases to Swissmedic. Participating hospitals previously reported ~18 ICSRs annually. During the study period (7/2023-12/2023), 200 ADR-related hospitalizations were reported following a review of 814 pre-filtered admissions. Most ICSR data were available in structured format: Median age of patients was 59 (interquartile range [IQR] 42-75); 87 (44%) males; median of two comorbidities (IQR 1-3); the three most frequent ADRs were 'K52.1 Toxic gastroenteritis and colitis' (11 [6%]), 'T42.4 Poisoning by benzodiazepines' (10 [5%]) and 'R11 Nausea and vomiting' (10 [5%]). Discharge reports contained free-text information on suspected drugs: More than half of ADR-related hospitalizations were caused by antineoplastics (45 [23%]), psycholeptics (38 [19%]), opioids and other analgesics (34 [17%]). The median time to screen a case was 1 min, 8 min to collect, compile and send data of confirmed cases. The approach successfully increased reporting of serious ADRs. The time investment for creating ICSRs might soon be rendered obsolete, as most data are available in structured format, and large language models are key to identifying suspected drugs in discharge reports.",
+      "_citation_count": 41,
+      "score_breakdown": {
+        "author_credibility": 0.7688,
+        "citation_score": 0.6833,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.6789
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42081743/",
+      "source_type": "pubmed",
+      "title": "Physician Perspectives on ChatGPT-4o as a Patient Resource for Abdominal Cancer Surgeries: Cross-Sectional Survey.",
+      "author": "Lindsay Christina V, Shenoy Devika A, Martin Allison N, Clipper Christie L, Shah Kevin N, Lidsky Michael E, Nussbaum Daniel P, Snyderman Ralph",
+      "published_date": "2026-May-04",
+      "language": "en",
+      "region": "Canada",
+      "journal": "JMIR perioperative medicine",
+      "topic_tags": [
+        "LLM",
+        "healthcare",
+        "safety"
+      ],
+      "trust_score": 0.66,
+      "content_chunks": [
+        "Artificial intelligence (AI) models are being increasingly integrated into clinical care. Moreover, the availability of publicly accessible AI resources makes them attractive to patients seeking clinical information. Little is known regarding the use of large language models as patient resources for navigating major cancer diagnoses. This study aimed to evaluate the content, readability, and safety of ChatGPT (OpenAI; GPT-4o)-generated responses to common perioperative queries about hepatic, pancreatic, and colon cancers. A 28-question survey was developed based on frequently asked surgical questions for select malignancies. Surgical oncologists rated ChatGPT-4o-generated responses on a 5-point Likert scale for accuracy, quality, and tangibility. Readability was assessed using the Flesch-Kincaid Reading Grade Level (FKRGL) and Flesch Reading Ease (FRE). Respondents provided free-text comments and reported their comfort with patients using ChatGPT. Survey completion implied consent. A total of 7 attending surgical oncologists with a median of 7 (IQR 4-13) years in practice completed the survey. Responses received mean scores of 3.5/5 (SD 0.28) for quality, 3.6/5 (SD 0.34) for accuracy, and 3.6/5 (SD 0.29) for tangibility. The responses had a median FKRGL score of 14.6 (IQR 13.3-15.6) and FRE score of 29.4 (IQR 20.5-36.3). On a post hoc analysis for select questions, the median FKRGL was 15.6 (IQR 14.4-16.7), decreasing to 7.1 (IQR 6.1-8.3) and 14.5 (IQR 13.2-15.4) with prompting and rephrasing, and the median FRE was 18.1 (IQR 14.6-24.7), increasing to 73.8 (IQR 66.6-79.3) and 32.0 (IQR 27.0-37.7) with prompting and rephrasing. Numerous inaccuracies and content gaps were reported, and approximately 43% (3/7) of providers did not report feeling \"comfortable\" in having patients consult publicly available AI for medical information. This study provides cautionary, yet optimistic, findings regarding the value of publicly accessible ChatGPT as a patient resource for abdominal malignancies. Providers should be prepared to effectively counsel patients to identify their educational attainment level when using ChatGPT to mitigate readability challenges."
+      ],
+      "_raw_text": "Artificial intelligence (AI) models are being increasingly integrated into clinical care. Moreover, the availability of publicly accessible AI resources makes them attractive to patients seeking clinical information. Little is known regarding the use of large language models as patient resources for navigating major cancer diagnoses. This study aimed to evaluate the content, readability, and safety of ChatGPT (OpenAI; GPT-4o)-generated responses to common perioperative queries about hepatic, pancreatic, and colon cancers. A 28-question survey was developed based on frequently asked surgical questions for select malignancies. Surgical oncologists rated ChatGPT-4o-generated responses on a 5-point Likert scale for accuracy, quality, and tangibility. Readability was assessed using the Flesch-Kincaid Reading Grade Level (FKRGL) and Flesch Reading Ease (FRE). Respondents provided free-text comments and reported their comfort with patients using ChatGPT. Survey completion implied consent. A total of 7 attending surgical oncologists with a median of 7 (IQR 4-13) years in practice completed the survey. Responses received mean scores of 3.5/5 (SD 0.28) for quality, 3.6/5 (SD 0.34) for accuracy, and 3.6/5 (SD 0.29) for tangibility. The responses had a median FKRGL score of 14.6 (IQR 13.3-15.6) and FRE score of 29.4 (IQR 20.5-36.3). On a post hoc analysis for select questions, the median FKRGL was 15.6 (IQR 14.4-16.7), decreasing to 7.1 (IQR 6.1-8.3) and 14.5 (IQR 13.2-15.4) with prompting and rephrasing, and the median FRE was 18.1 (IQR 14.6-24.7), increasing to 73.8 (IQR 66.6-79.3) and 32.0 (IQR 27.0-37.7) with prompting and rephrasing. Numerous inaccuracies and content gaps were reported, and approximately 43% (3/7) of providers did not report feeling \"comfortable\" in having patients consult publicly available AI for medical information. This study provides cautionary, yet optimistic, findings regarding the value of publicly accessible ChatGPT as a patient resource for abdominal malignancies. Providers should be prepared to effectively counsel patients to identify their educational attainment level when using ChatGPT to mitigate readability challenges.",
+      "_citation_count": 38,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.6333,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.6642
+      }
+    },
+    {
+      "source_url": "https://huggingface.co/blog/",
+      "source_type": "blog",
+      "title": "Hugging Face – Blog",
+      "author": "Huggingface Team",
+      "published_date": "2026-05-06",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [
+        "robotics"
+      ],
+      "trust_score": 0.63,
+      "content_chunks": [
+        "Introducing the agentic robotics appstore for 10,000 Reachy Minis 3 days ago • 31"
+      ],
+      "_raw_text": "Introducing the agentic robotics appstore for 10,000 Reachy Minis 3 days ago • 31",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.82,
+        "recency_score": 1.0,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.63
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42085702/",
+      "source_type": "pubmed",
+      "title": "Global Sentiment Toward Health AI at the Dawn of the ChatGPT Era: Empirical Analysis of Twitter (X) Discourse.",
+      "author": "Wass Lily Minh, Wu Zhengdong, Vizoso José, Wu Joseph T, Lin Leesa",
+      "published_date": "2026-May-05",
+      "language": "en",
+      "region": "Canada",
+      "journal": "Journal of medical Internet research",
+      "topic_tags": [
+        "LLM",
+        "policy",
+        "benchmark",
+        "safety"
+      ],
+      "trust_score": 0.59,
+      "content_chunks": [
+        "Artificial intelligence (AI) is increasingly proposed for use in health and health care systems. Beyond technical performance, public perceptions and affective responses influence whether AI technologies are accepted and adopted in real-world contexts. Social media platforms such as X (formerly Twitter) provide large-scale, real-time insight into public discourse surrounding emerging technologies, yet remain underused for examining how health AI is discussed, evaluated, and emotionally framed. This study aimed to develop and apply large language model (LLM)-based methods for exploratory social listening on health AI. This is the first study to map large-scale sentiment, emotional expressions, and confidence-related signals in online discussions of applications of AI to health. We collected 786,750 English-language posts from X (Twitter) published between January 1 and December 5, 2023, using health- and AI-related keywords. We benchmarked an LLM-based annotation framework by using OpenAI's GPT-3.5-Turbo and GPT-4, comparing model classifications with trained human researchers. Annotations included overall sentiment and 6 evaluative domains frequently referenced in the literature surrounding attitudes toward health AI-usefulness, safety, privacy, ethics, quality, and trust. After cleaning, GPT-3.5-Turbo used the best-performing prompts to label 388,009 posts. A subset (n=268,347) was further analyzed using Emollama-7b, an open-source model fine-tuned from Meta's LLaMA2-7B, for emotion detection, and latent Dirichlet allocation for thematic analysis. Comparisons were made across World Health Organization regions. Compared against human annotations, optimized prompts achieved weighted F This study offers the first systematic characterization of online health AI discourse at scale, mapping stances toward key features of AI, emotional tone, and discussion topics across regions. LLM-powered social listening is demonstrated as a feasible approach for identifying dominant narratives and regionally distinct concerns, capable of surfacing opinions absent from traditional media. This can extend to studying discourse on other evolving health technologies where public surveying is limited. While methodological refinement and multilingual expansion are needed, this framework can inform timely policy development, risk communication, and responsible health AI governance."
+      ],
+      "_raw_text": "Artificial intelligence (AI) is increasingly proposed for use in health and health care systems. Beyond technical performance, public perceptions and affective responses influence whether AI technologies are accepted and adopted in real-world contexts. Social media platforms such as X (formerly Twitter) provide large-scale, real-time insight into public discourse surrounding emerging technologies, yet remain underused for examining how health AI is discussed, evaluated, and emotionally framed. This study aimed to develop and apply large language model (LLM)-based methods for exploratory social listening on health AI. This is the first study to map large-scale sentiment, emotional expressions, and confidence-related signals in online discussions of applications of AI to health. We collected 786,750 English-language posts from X (Twitter) published between January 1 and December 5, 2023, using health- and AI-related keywords. We benchmarked an LLM-based annotation framework by using OpenAI's GPT-3.5-Turbo and GPT-4, comparing model classifications with trained human researchers. Annotations included overall sentiment and 6 evaluative domains frequently referenced in the literature surrounding attitudes toward health AI-usefulness, safety, privacy, ethics, quality, and trust. After cleaning, GPT-3.5-Turbo used the best-performing prompts to label 388,009 posts. A subset (n=268,347) was further analyzed using Emollama-7b, an open-source model fine-tuned from Meta's LLaMA2-7B, for emotion detection, and latent Dirichlet allocation for thematic analysis. Comparisons were made across World Health Organization regions. Compared against human annotations, optimized prompts achieved weighted F This study offers the first systematic characterization of online health AI discourse at scale, mapping stances toward key features of AI, emotional tone, and discussion topics across regions. LLM-powered social listening is demonstrated as a feasible approach for identifying dominant narratives and regionally distinct concerns, capable of surfacing opinions absent from traditional media. This can extend to studying discourse on other evolving health technologies where public surveying is limited. While methodological refinement and multilingual expansion are needed, this framework can inform timely policy development, risk communication, and responsible health AI governance.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5875
+      }
+    },
+    {
+      "source_url": "https://deepmind.google/discover/blog/",
+      "source_type": "blog",
+      "title": "News",
+      "author": "Deepmind Team",
+      "published_date": "April 2026",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [],
+      "trust_score": 0.55,
+      "content_chunks": [
+        "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more"
+      ],
+      "_raw_text": "Gemma 4: Byte for byte, the most capable open models April 2026 Models Learn more",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.88,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.545
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42101844/",
+      "source_type": "pubmed",
+      "title": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries.",
+      "author": "Grolleau François, Liang April S, Keyes Timothy, Ma Stephen P, Lew Thomas, Huynh Tridu R, Steele Natasha, Chung Philip, Qin Paige, Chandra Gowri, Wang Stephanie F, Mullen Evan, Carpenter Lauren, Hoppenfeld Mita, Morrin Matthew, Kyerematen Baffour A, Ambers Nerissa, Kotecha Nikesh, Alsentzer Emily, Hom Jason, Shah Nigam H, Schulman Kevin, Chen Jonathan H",
+      "published_date": "2026-May-01",
+      "language": "en",
+      "region": "United States",
+      "journal": "JAMA network open",
+      "topic_tags": [
+        "LLM",
+        "healthcare",
+        "safety"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "High-quality discharge summaries are essential for safe care transitions but contribute substantially to clinician documentation burden and burnout. While retrospective studies suggest that large language models (LLMs) can generate clinical summaries of comparable quality to those by physicians, prospective data on their safety, utility, and association with clinician well-being in clinical environments are lacking. To evaluate the safety, use, and association with clinician burden of MedAgentBrief, an LLM-based agentic workflow for generating hospital course summaries, during prospective clinical deployment. This single-arm prospective pilot quality improvement study encompassed hospital discharges at 1 academic inpatient medicine unit from August 1 to October 11, 2025, with baseline comparisons drawn from April 9 to July 31, 2025. A custom agentic LLM workflow using Gemini 2.5 Pro generated draft hospital course summaries nightly using patient history and physical and daily progress notes. Drafts were securely emailed to physicians daily for review and optional use. The primary outcome was physician-reported potential for and severity of harm from unedited summaries (Agency for Healthcare Research and Quality Common Format Harm Scale). Secondary outcomes included use rate, error types (omissions, inaccuracies, and hallucinations), time spent in discharge summaries (electronic health record logs), and changes in cognitive burden (NASA Task Load Index; score range, 0-100, with higher scores indicating greater cognitive burden) and burnout (Stanford Professional Fulfillment Index Work Exhaustion Scale; score range, 0-4, with higher scores indicating greater burnout). Among 384 hospital discharges, the system generated 1274 summaries. Physicians used artificial intelligence (AI) content in 219 cases (57.0%). Feedback on 100 summaries (88 of 219 used summaries [40.2%] and 12 of 165 unused summaries [7.3%]) noted omissions (25 summaries [25.0%]) and inaccuracies (20 summaries [20.0%]) but rare hallucinations (2 summaries [2.0%]). Physicians rated 88 unedited summaries (88.0%) as having no harm potential and 1 (1.0%) as likely to cause moderate harm; no severe harm was reported. Mean physician burnout scores decreased significantly from before to after the intervention (1.75; 95% CI, 1.16-2.34 vs 1.20; 95% CI, 0.71-1.69; P = .03). Time savings were heterogeneous, with 5 of 7 physicians with matched baseline data (71.4%) seeing reductions in median documentation time; changes from baseline to pilot were up to 2.9 minutes, which was a nonsignificant difference (10.7 minutes; 95% CI, 7.4-13.3 minutes vs 7.8 minutes; 95% CI, 5.1-11.7 minutes; P = .13). In this study, an LLM-based agentic workflow produced hospital course summaries that were frequently used with minimal risk of harm identified. The intervention was associated with a reduction in physician burnout, supporting the viability of AI summarization to mitigate documentation burden."
+      ],
+      "_raw_text": "High-quality discharge summaries are essential for safe care transitions but contribute substantially to clinician documentation burden and burnout. While retrospective studies suggest that large language models (LLMs) can generate clinical summaries of comparable quality to those by physicians, prospective data on their safety, utility, and association with clinician well-being in clinical environments are lacking. To evaluate the safety, use, and association with clinician burden of MedAgentBrief, an LLM-based agentic workflow for generating hospital course summaries, during prospective clinical deployment. This single-arm prospective pilot quality improvement study encompassed hospital discharges at 1 academic inpatient medicine unit from August 1 to October 11, 2025, with baseline comparisons drawn from April 9 to July 31, 2025. A custom agentic LLM workflow using Gemini 2.5 Pro generated draft hospital course summaries nightly using patient history and physical and daily progress notes. Drafts were securely emailed to physicians daily for review and optional use. The primary outcome was physician-reported potential for and severity of harm from unedited summaries (Agency for Healthcare Research and Quality Common Format Harm Scale). Secondary outcomes included use rate, error types (omissions, inaccuracies, and hallucinations), time spent in discharge summaries (electronic health record logs), and changes in cognitive burden (NASA Task Load Index; score range, 0-100, with higher scores indicating greater cognitive burden) and burnout (Stanford Professional Fulfillment Index Work Exhaustion Scale; score range, 0-4, with higher scores indicating greater burnout). Among 384 hospital discharges, the system generated 1274 summaries. Physicians used artificial intelligence (AI) content in 219 cases (57.0%). Feedback on 100 summaries (88 of 219 used summaries [40.2%] and 12 of 165 unused summaries [7.3%]) noted omissions (25 summaries [25.0%]) and inaccuracies (20 summaries [20.0%]) but rare hallucinations (2 summaries [2.0%]). Physicians rated 88 unedited summaries (88.0%) as having no harm potential and 1 (1.0%) as likely to cause moderate harm; no severe harm was reported. Mean physician burnout scores decreased significantly from before to after the intervention (1.75; 95% CI, 1.16-2.34 vs 1.20; 95% CI, 0.71-1.69; P = .03). Time savings were heterogeneous, with 5 of 7 physicians with matched baseline data (71.4%) seeing reductions in median documentation time; changes from baseline to pilot were up to 2.9 minutes, which was a nonsignificant difference (10.7 minutes; 95% CI, 7.4-13.3 minutes vs 7.8 minutes; 95% CI, 5.1-11.7 minutes; P = .13). In this study, an LLM-based agentic workflow produced hospital course summaries that were frequently used with minimal risk of harm identified. The intervention was associated with a reduction in physician burnout, supporting the viability of AI summarization to mitigate documentation burden.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.7565,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5391
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42098850/",
+      "source_type": "pubmed",
+      "title": "Early syndecan-4 upregulation predicts cognitive and pathological trajectories in Alzheimer disease.",
+      "author": "Tarawneh Rawan, Moulder Krista L, Topouza Danai G, Kar Amrita, Qian Heng Tony, Pankratz Vernon S, Timsina Jigyasha, Franklin Erin E, Schindler Suzanne E, Perrin Richard J, Ances Beau M, Benzinger Tammie L S, Hassenstab Jason, Morris John C, Holtzman David M, Cruchaga Carlos",
+      "published_date": "2026-May-07",
+      "language": "en",
+      "region": "England",
+      "journal": "Alzheimer's research & therapy",
+      "topic_tags": [
+        "healthcare",
+        "policy"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "Brain endothelial dysfunction is an early pathological feature of Alzheimer disease (AD). We here investigate associations of the brain endothelial glycocalyx protein, syndecan-4 (SDC4), with amyloid and tau pathologies and cognitive impairment in a large longitudinal cohort of AD and controls. The study included n = 1,041 (n = 802 cognitively unimpaired and n = 239 cognitively impaired) participants who underwent biological classification using the NIA-AA \"ATN\" framework. Cognitive assessments included the Clinical Dementia Rating CSF SDC4 levels were elevated in even the earliest preclinical stages of AD compared to controls and were closely associated with other CSF and imaging biomarkers of AD. Higher CSF SDC4 levels correlated with higher global and regional amyloid-PET and tau-PET burden and worse baseline cognition. Higher baseline CSF SDC4 levels predicted more rapid progression of brain amyloid and tau, and faster decline in global cognition, episodic memory, language, and executive functions over follow-up (mean, 8 years). CSF SDC4 associations with cognition were mainly mediated by global tau-PET burden. Importantly, our pseudo-time models estimate that SDC4 upregulation begins very early in AD pathogenesis near the point of amyloid-positivity and increases more robustly following the point of tau-positivity. SDC4 was among the top 10 most important proteins in predicting the pseudo-time models of AD progression and predicted these models to a potentially better extent than other emerging AD biomarkers. Findings from this large longitudinal study suggest that CSF SDC4 levels are increased in the earliest preclinical stages of AD and are closely associated with the progression of amyloid and tau pathologies and future rates of cognitive decline. We propose that SDC4 upregulation is an important early event in AD pathogenesis which predicts cognitive and pathological disease trajectories."
+      ],
+      "_raw_text": "Brain endothelial dysfunction is an early pathological feature of Alzheimer disease (AD). We here investigate associations of the brain endothelial glycocalyx protein, syndecan-4 (SDC4), with amyloid and tau pathologies and cognitive impairment in a large longitudinal cohort of AD and controls. The study included n = 1,041 (n = 802 cognitively unimpaired and n = 239 cognitively impaired) participants who underwent biological classification using the NIA-AA \"ATN\" framework. Cognitive assessments included the Clinical Dementia Rating CSF SDC4 levels were elevated in even the earliest preclinical stages of AD compared to controls and were closely associated with other CSF and imaging biomarkers of AD. Higher CSF SDC4 levels correlated with higher global and regional amyloid-PET and tau-PET burden and worse baseline cognition. Higher baseline CSF SDC4 levels predicted more rapid progression of brain amyloid and tau, and faster decline in global cognition, episodic memory, language, and executive functions over follow-up (mean, 8 years). CSF SDC4 associations with cognition were mainly mediated by global tau-PET burden. Importantly, our pseudo-time models estimate that SDC4 upregulation begins very early in AD pathogenesis near the point of amyloid-positivity and increases more robustly following the point of tau-positivity. SDC4 was among the top 10 most important proteins in predicting the pseudo-time models of AD progression and predicted these models to a potentially better extent than other emerging AD biomarkers. Findings from this large longitudinal study suggest that CSF SDC4 levels are increased in the earliest preclinical stages of AD and are closely associated with the progression of amyloid and tau pathologies and future rates of cognitive decline. We propose that SDC4 upregulation is an important early event in AD pathogenesis which predicts cognitive and pathological disease trajectories.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.7594,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5398
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42098248/",
+      "source_type": "pubmed",
+      "title": "Evaluation of large language models and retrieval-augmented generation for clinical reasoning in pediatric myopia: a 50-case real-world study.",
+      "author": "Kang Daohuan, Zhao Kaikai, Cheng Deji, Yuan Lu, Sun Wen, Jin Kai",
+      "published_date": "2026-May-07",
+      "language": "en",
+      "region": "England",
+      "journal": "Scientific reports",
+      "topic_tags": [
+        "LLM",
+        "safety",
+        "healthcare",
+        "benchmark",
+        "research"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "To evaluate the clinical reasoning ability of large language models (LLMs) and retrieval-augmented generation (RAG) systems in pediatric myopia management using a real-world, expert-annotated case set covering diverse refractive, pathological, and high-risk scenarios. Six models were tested: baseline LLMs (GPT Base, Gemini Base, Grok Base) and their RAG variants (GPT-RAG, Gemini-RAG, Grok-RAG). RAG was augmented with 41 authoritative guidelines, including IMI white papers and the LAMP study. Performance was evaluated through automated scoring by Claude 4 Opus and blinded adjudication by three senior ophthalmologists, focusing on Accuracy, Utility, and Safety. RAG-enhanced models significantly outperformed baseline models across all metrics. Notably, GPT-RAG achieved the highest weighted automated score (7.46), surpassing GPT Base (7.37). Human adjudication revealed that RAG models achieved 90-94% consensus alignment compared to 68-82% for baselines. Crucially, the probability of high-risk recommendations-those capable of causing severe vision loss-was eliminated (0%) in all RAG models, whereas baseline models exhibited high-risk error rates of 6-14%. LLM + RAG integration boosts reliability and safety in pediatric myopia care, particularly for high-risk decisions. RAG's domain knowledge incorporation advances AI clinical tools in ophthalmology, though ophthalmologist-in-the-loop refinement is essential pre-deployment."
+      ],
+      "_raw_text": "To evaluate the clinical reasoning ability of large language models (LLMs) and retrieval-augmented generation (RAG) systems in pediatric myopia management using a real-world, expert-annotated case set covering diverse refractive, pathological, and high-risk scenarios. Six models were tested: baseline LLMs (GPT Base, Gemini Base, Grok Base) and their RAG variants (GPT-RAG, Gemini-RAG, Grok-RAG). RAG was augmented with 41 authoritative guidelines, including IMI white papers and the LAMP study. Performance was evaluated through automated scoring by Claude 4 Opus and blinded adjudication by three senior ophthalmologists, focusing on Accuracy, Utility, and Safety. RAG-enhanced models significantly outperformed baseline models across all metrics. Notably, GPT-RAG achieved the highest weighted automated score (7.46), surpassing GPT Base (7.37). Human adjudication revealed that RAG models achieved 90-94% consensus alignment compared to 68-82% for baselines. Crucially, the probability of high-risk recommendations-those capable of causing severe vision loss-was eliminated (0%) in all RAG models, whereas baseline models exhibited high-risk error rates of 6-14%. LLM + RAG integration boosts reliability and safety in pediatric myopia care, particularly for high-risk decisions. RAG's domain knowledge incorporation advances AI clinical tools in ophthalmology, though ophthalmologist-in-the-loop refinement is essential pre-deployment.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5375
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42097830/",
+      "source_type": "pubmed",
+      "title": "The detectability paradox: bilingual medical report generation with open-weight models and the limits of human oversight.",
+      "author": "Rouhizadeh Hossein, Sandralegar Abiram, Yazdani Anthony, Feng Weibo, Schreier Oren, Ahn-Kim Yonnou, Sirbal Assiya, Pirelli Valentino, Yang Rui, Sveikata Lukas, Tessitore Elena, Liu Nan, Bijlenga Philippe, Teodoro Douglas",
+      "published_date": "2026-May-08",
+      "language": "en",
+      "region": "England",
+      "journal": "Journal of the American Medical Informatics Association : JAMIA",
+      "topic_tags": [
+        "healthcare",
+        "LLM",
+        "safety",
+        "benchmark"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "The automation of medical report generation using large language models (LLMs) could significantly reduce physicians' documentation burden while enhancing healthcare efficiency. However, the misuse of generative artificial intelligence in medical reporting can lead to important safety risks for patients. We addressed 2 questions: (1) What is the quality of medical reports generated by LLMs in English and French? and (2) Can we distinguish between human-written and LLM-generated medical reports? We evaluated the quality of reports generated by several multilingual, open-weight LLMs using text similarity metrics on 4212 medical reports in English and French across multiple specialties. A bilingual expert panel of certified physicians (n = 4) and medical residents (n = 5) scored accuracy, fluency, and completeness of generated reports using a 1-5 Likert scale. Experts also completed a Turing-like test, blindly identifying reports as human or machine-generated. Phi-4 achieved the best overall performance (ROUGE-1: 0.70, BERTScore: 0.83). Expert evaluation confirmed high-quality reports in both languages (overall 4.6/5.0). Medical experts performed better than chance but struggled to differentiate human versus machine reports (accuracy: 0.60). Automatic classifiers showed strong performance (accuracy: 0.98). The high quality of LLM-generated reports supports their potential to enhance healthcare efficiency in multilingual settings. However, the discrepancy between human detection difficulty and automated detection success reveals inherent limitations in relying solely on human oversight for quality assurance and misuse prevention. Deployment of LLMs for medical reporting requires combining automated detection tools with human expertise to ensure patient safety. Dataset and code: https://github.com/ds4dh/medical_report_generation."
+      ],
+      "_raw_text": "The automation of medical report generation using large language models (LLMs) could significantly reduce physicians' documentation burden while enhancing healthcare efficiency. However, the misuse of generative artificial intelligence in medical reporting can lead to important safety risks for patients. We addressed 2 questions: (1) What is the quality of medical reports generated by LLMs in English and French? and (2) Can we distinguish between human-written and LLM-generated medical reports? We evaluated the quality of reports generated by several multilingual, open-weight LLMs using text similarity metrics on 4212 medical reports in English and French across multiple specialties. A bilingual expert panel of certified physicians (n = 4) and medical residents (n = 5) scored accuracy, fluency, and completeness of generated reports using a 1-5 Likert scale. Experts also completed a Turing-like test, blindly identifying reports as human or machine-generated. Phi-4 achieved the best overall performance (ROUGE-1: 0.70, BERTScore: 0.83). Expert evaluation confirmed high-quality reports in both languages (overall 4.6/5.0). Medical experts performed better than chance but struggled to differentiate human versus machine reports (accuracy: 0.60). Automatic classifiers showed strong performance (accuracy: 0.98). The high quality of LLM-generated reports supports their potential to enhance healthcare efficiency in multilingual settings. However, the discrepancy between human detection difficulty and automated detection success reveals inherent limitations in relying solely on human oversight for quality assurance and misuse prevention. Deployment of LLMs for medical reporting requires combining automated detection tools with human expertise to ensure patient safety. Dataset and code: https://github.com/ds4dh/medical_report_generation.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5375
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42096610/",
+      "source_type": "pubmed",
+      "title": "Can a Large Language Model Grounded in Text-Based Agency-Specific Prehospital Protocols Provide Accurate Care Recommendations?",
+      "author": "Wang Colin G, Bosson Nichole, Rahimian Rombod, Schlesinger Shira, Whitfield Denise, Toy Jake",
+      "published_date": "2026-May-07",
+      "language": "en",
+      "region": "England",
+      "journal": "Prehospital emergency care",
+      "topic_tags": [
+        "LLM",
+        "healthcare",
+        "benchmark",
+        "safety"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "Large language models (LLMs) using a retrieval-augmented generation (RAG) approach have the ability to respond to user queries with answers grounded in specific sources. We conducted an exploratory evaluation of the accuracy of a RAG-based LLM to provide care recommendations for prehospital scenarios based on the emergency medical services (EMS) policies and treatment protocols (TPs). We conducted a non-human, simulation-based experimental study by uploading all text-based policies/TPs from a single large EMS system into Google's NotebookLM platform, which uses a RAG-based LLM (Gemini 2.5 Flash) framework to generate grounded responses. We developed six clinical scenario prompts, including adult patient scenarios (i.e., ventricular fibrillation out-of-hospital cardiac arrest [OHCA], blunt head trauma, stroke, hazardous materials exposure mass-casualty incident) and pediatric patient scenarios (i.e., pulseless electrical activity OHCA, traumatic penetrating extremity hemorrhagic shock). For each scenario, we used all relevant policies/TPs to create a specific set of expected patient care actions. We categorized actions as procedures/interventions, medications, and destination guidance. Medication grading included dose/route for all patients and weight-based dosing for pediatrics. After providing the LLM with the prompts, two investigators independently graded the LLM responses and evaluated for LLM \"hallucinations\". Missing actions were categorized by investigators based on applicability to the case and potential safety risk (e.g., 'non-applicable,' 'minor miss,' 'major miss'). The primary outcome was model recommendation accuracy, defined as the percentage of all actions correctly provided in the model's response. We reported descriptive statistics. The LLM recommended 127 (75%) of 169 patient care actions across all cases. There were 42 missed actions. Nine of the 169 actions (5%) were categorized as 'major misses,' 13 (8%) as 'minor misses', and 20 (12%) as non-applicable to the specific case. Five of nine major misses occurred during the pediatric OHCA case; the majority of these resulted from failure to prompt for evaluation of secondary treatable causes. We identified 12 hallucinations; none were judged to endanger patient safety. We found that a RAG-based LLM demonstrated 75% accuracy across various prehospital scenarios when providing responses grounded in the policies/TPs of a single large EMS agency."
+      ],
+      "_raw_text": "Large language models (LLMs) using a retrieval-augmented generation (RAG) approach have the ability to respond to user queries with answers grounded in specific sources. We conducted an exploratory evaluation of the accuracy of a RAG-based LLM to provide care recommendations for prehospital scenarios based on the emergency medical services (EMS) policies and treatment protocols (TPs). We conducted a non-human, simulation-based experimental study by uploading all text-based policies/TPs from a single large EMS system into Google's NotebookLM platform, which uses a RAG-based LLM (Gemini 2.5 Flash) framework to generate grounded responses. We developed six clinical scenario prompts, including adult patient scenarios (i.e., ventricular fibrillation out-of-hospital cardiac arrest [OHCA], blunt head trauma, stroke, hazardous materials exposure mass-casualty incident) and pediatric patient scenarios (i.e., pulseless electrical activity OHCA, traumatic penetrating extremity hemorrhagic shock). For each scenario, we used all relevant policies/TPs to create a specific set of expected patient care actions. We categorized actions as procedures/interventions, medications, and destination guidance. Medication grading included dose/route for all patients and weight-based dosing for pediatrics. After providing the LLM with the prompts, two investigators independently graded the LLM responses and evaluated for LLM \"hallucinations\". Missing actions were categorized by investigators based on applicability to the case and potential safety risk (e.g., 'non-applicable,' 'minor miss,' 'major miss'). The primary outcome was model recommendation accuracy, defined as the percentage of all actions correctly provided in the model's response. We reported descriptive statistics. The LLM recommended 127 (75%) of 169 patient care actions across all cases. There were 42 missed actions. Nine of the 169 actions (5%) were categorized as 'major misses,' 13 (8%) as 'minor misses', and 20 (12%) as non-applicable to the specific case. Five of nine major misses occurred during the pediatric OHCA case; the majority of these resulted from failure to prompt for evaluation of secondary treatable causes. We identified 12 hallucinations; none were judged to endanger patient safety. We found that a RAG-based LLM demonstrated 75% accuracy across various prehospital scenarios when providing responses grounded in the policies/TPs of a single large EMS agency.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5375
+      }
+    },
+    {
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42087133/",
+      "source_type": "pubmed",
+      "title": "Evaluating the clinical safety of large language models in oral cancer-related patient communication: a repeated-prompt observational study.",
+      "author": "Kollayan Burcu Yeliz, Cebeci Tuğba",
+      "published_date": "2026-May-05",
+      "language": "en",
+      "region": "England",
+      "journal": "BMC oral health",
+      "topic_tags": [
+        "LLM",
+        "healthcare",
+        "safety",
+        "benchmark",
+        "interpretability",
+        "research"
+      ],
+      "trust_score": 0.54,
+      "content_chunks": [
+        "As patients increasingly consult large language models (LLMs) for health-related information, evaluating the clinical safety of AI-generated responses has become essential, particularly in high-risk domains such as oral oncology. Despite growing interest in AI applications in medicine, evidence regarding response consistency and referral safety in patient communication remains limited. This study aimed to assess the clinical safety of two contemporary LLMs in oral cancer-related patient scenarios using a multidimensional evaluation framework. This repeated-prompt observational study evaluated Google Gemini (Pro version) and xAI Grok (Grok-1) over a 7-day period. Twenty standardized Turkish-language patient scenarios related to suspected oral cancer were submitted daily to each model, generating 280 responses. Scientific accuracy and completeness were assessed using a 5-point Likert scale by two independent oral and maxillofacial radiologists. Readability was evaluated using validated Turkish indices (Ateşman and Bezirci-Yılmaz). Referral safety was assessed as a binary outcome. Internal consistency across repeated prompts was measured using Cronbach's alpha, and inter-model agreement was analyzed using intraclass correlation coefficients (ICC). Both models demonstrated comparable levels of scientific accuracy (Gemini: 3.52 ± 0.57; Grok: 3.39 ± 0.68; p = 0.072) and completeness (3.40 ± 0.70 vs. 3.25 ± 0.78; p = 0.091). Overall referral safety was high (Gemini: 90.0%; Grok: 92.1%), although the Gemini model failed to recommend professional consultation in two high-risk scenarios involving suspected malignancy. In contrast, Grok consistently recommended referral across all scenarios. Readability scores were similar between models; however, Grok generated significantly longer sentences (p = 0.0005; Cohen's d = 2.50), indicating increased linguistic complexity. Internal consistency was high for both models (Gemini α = 0.942; Grok α = 0.886), whereas inter-model agreement was moderate (ICC: 0.50-0.58). Contemporary LLMs demonstrate generally acceptable accuracy and a precautionary approach in oral cancer-related communication. However, variability in referral behavior and linguistic structure, along with occasional under-referral in high-risk scenarios, highlights potential clinical risks. While these systems may support patient education and triage, they should be considered adjunctive tools and not substitutes for professional evaluation. Further research is needed to optimize the balance between clinical caution and appropriate guidance in AI-assisted healthcare communication."
+      ],
+      "_raw_text": "As patients increasingly consult large language models (LLMs) for health-related information, evaluating the clinical safety of AI-generated responses has become essential, particularly in high-risk domains such as oral oncology. Despite growing interest in AI applications in medicine, evidence regarding response consistency and referral safety in patient communication remains limited. This study aimed to assess the clinical safety of two contemporary LLMs in oral cancer-related patient scenarios using a multidimensional evaluation framework. This repeated-prompt observational study evaluated Google Gemini (Pro version) and xAI Grok (Grok-1) over a 7-day period. Twenty standardized Turkish-language patient scenarios related to suspected oral cancer were submitted daily to each model, generating 280 responses. Scientific accuracy and completeness were assessed using a 5-point Likert scale by two independent oral and maxillofacial radiologists. Readability was evaluated using validated Turkish indices (Ateşman and Bezirci-Yılmaz). Referral safety was assessed as a binary outcome. Internal consistency across repeated prompts was measured using Cronbach's alpha, and inter-model agreement was analyzed using intraclass correlation coefficients (ICC). Both models demonstrated comparable levels of scientific accuracy (Gemini: 3.52 ± 0.57; Grok: 3.39 ± 0.68; p = 0.072) and completeness (3.40 ± 0.70 vs. 3.25 ± 0.78; p = 0.091). Overall referral safety was high (Gemini: 90.0%; Grok: 92.1%), although the Gemini model failed to recommend professional consultation in two high-risk scenarios involving suspected malignancy. In contrast, Grok consistently recommended referral across all scenarios. Readability scores were similar between models; however, Grok generated significantly longer sentences (p = 0.0005; Cohen's d = 2.50), indicating increased linguistic complexity. Internal consistency was high for both models (Gemini α = 0.942; Grok α = 0.886), whereas inter-model agreement was moderate (ICC: 0.50-0.58). Contemporary LLMs demonstrate generally acceptable accuracy and a precautionary approach in oral cancer-related communication. However, variability in referral behavior and linguistic structure, along with occasional under-referral in high-risk scenarios, highlights potential clinical risks. While these systems may support patient education and triage, they should be considered adjunctive tools and not substitutes for professional evaluation. Further research is needed to optimize the balance between clinical caution and appropriate guidance in AI-assisted healthcare communication.",
+      "_citation_count": 0,
+      "score_breakdown": {
+        "author_credibility": 0.75,
+        "citation_score": 0.0,
+        "domain_authority": 1.0,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.0,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.5375
+      }
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "source_type": "youtube",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "author": "3Blue1Brown",
+      "published_date": "",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [],
+      "trust_score": 0.49,
+      "content_chunks": [
+        "What are the neurons, why are there layers, and what is the math underlying it?Help fund future projects: https://www.patreon.com/3blue1brownWritten/interact..."
+      ],
+      "_raw_text": "What are the neurons, why are there layers, and what is the math underlying it?Help fund future projects: https://www.patreon.com/3blue1brownWritten/interact...",
+      "_description": "What are the neurons, why are there layers, and what is the math underlying it?Help fund future projects: https://www.patreon.com/3blue1brownWritten/interact...",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0333,
+        "domain_authority": 0.62,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.4867
+      }
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "source_type": "youtube",
+      "title": "Let's build GPT: from scratch, in code, spelled out.",
+      "author": "Andrej Karpathy",
+      "published_date": "",
+      "language": "en",
+      "region": "US",
+      "topic_tags": [
+        "LLM",
+        "research"
+      ],
+      "trust_score": 0.48,
+      "content_chunks": [
+        "We build a Generatively Pretrained Transformer (GPT), following the paper \"Attention is All You Need\" and OpenAI's GPT-2 / GPT-3. We talk about connections t..."
+      ],
+      "_raw_text": "We build a Generatively Pretrained Transformer (GPT), following the paper \"Attention is All You Need\" and OpenAI's GPT-2 / GPT-3. We talk about connections t...",
+      "_description": "We build a Generatively Pretrained Transformer (GPT), following the paper \"Attention is All You Need\" and OpenAI's GPT-2 / GPT-3. We talk about connections t...",
+      "score_breakdown": {
+        "author_credibility": 0.9,
+        "citation_score": 0.0,
+        "domain_authority": 0.62,
+        "recency_score": 0.5,
+        "medical_disclaimer_score": 0.5,
+        "abuse_penalty_applied": 0.0,
+        "final_trust_score": 0.48
+      }
+    }
+  ]
+}

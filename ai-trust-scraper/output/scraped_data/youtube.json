@@ -1,0 +1,52 @@
+[
+  {
+    "source_url": "https://www.youtube.com/watch?v=2oGsCHlfBUg",
+    "source_type": "youtube",
+    "title": "Complete ML Machine Learning in one shot | Semester Exam | Hindi",
+    "author": "KnowledgeGATE by Sanchit Sir",
+    "published_date": "",
+    "language": "en",
+    "region": "US",
+    "topic_tags": [],
+    "trust_score": 0.41,
+    "content_chunks": [
+      "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou..."
+    ],
+    "_raw_text": "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou...",
+    "_description": "💻 KnowledgeGate Website: https://www.knowledgegate.aiFor free notes on University exam’s subjects, please check out our course: https://knowledgegate.ai/cou...",
+    "score_breakdown": {
+      "author_credibility": 0.55,
+      "citation_score": 0.0667,
+      "domain_authority": 0.62,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.4058
+    }
+  },
+  {
+    "source_url": "https://www.youtube.com/watch?v=ZftI2fEz0Fw",
+    "source_type": "youtube",
+    "title": "What is Machine Learning? | 100 Days of Machine Learning",
+    "author": "CampusX",
+    "published_date": "",
+    "language": "en",
+    "region": "US",
+    "topic_tags": [],
+    "trust_score": 0.39,
+    "content_chunks": [
+      "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi..."
+    ],
+    "_raw_text": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi...",
+    "_description": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artifi...",
+    "score_breakdown": {
+      "author_credibility": 0.55,
+      "citation_score": 0.0,
+      "domain_authority": 0.62,
+      "recency_score": 0.5,
+      "medical_disclaimer_score": 0.5,
+      "abuse_penalty_applied": 0.0,
+      "final_trust_score": 0.3925
+    }
+  }
+]

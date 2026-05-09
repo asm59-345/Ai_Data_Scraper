@@ -1,0 +1,27 @@
+# ── FastAPI backend ────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+
+# ── Core async HTTP ────────────────────────────────────────────────────────
+aiohttp>=3.9.0
+
+# ── YouTube transcript extraction ──────────────────────────────────────────
+youtube-transcript-api>=0.6.2
+
+# ── HTML parsing (used in blog_scraper.py) ────────────────────────────────
+beautifulsoup4>=4.12.0
+lxml>=5.1.0              # fast parser backend for BeautifulSoup
+
+# ── Optional: headless browser for JS-heavy sites ─────────────────────────
+# playwright>=1.44.0     # uncomment + run: playwright install chromium
+
+# ── Optional: richer YouTube metadata ─────────────────────────────────────
+# yt-dlp>=2024.5.1       # uncomment if you need full video metadata
+
+# ── Data handling ──────────────────────────────────────────────────────────
+python-dotenv>=1.0.0     # load NCBI_API_KEY etc. from .env
+langdetect>=1.0.9        # automatic language detection
+
+# ── Utilities ──────────────────────────────────────────────────────────────
+tqdm>=4.66.0             # optional progress bars for batch runs

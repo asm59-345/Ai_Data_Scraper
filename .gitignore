@@ -31,6 +31,4 @@ yarn-error.log*
 ehthumbs.db
 Thumbs.db
 
-# AI Tools and Logs
-.vibecheck/
-.claude/
+

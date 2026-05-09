@@ -12,7 +12,7 @@ const SOURCE_OPTIONS = [
 
 export default function ScrapePanel({ onScrapeStart, onClear, disabled }) {
   const [selected, setSelected] = useState(['blog', 'pubmed', 'youtube'])
-  const [pubmedMax, setPubmedMax] = useState(10)
+  const [pubmedMax, setPubmedMax] = useState(1)
   const [scrapeQuery, setScrapeQuery] = useState('')
   const [loading, setLoading] = useState(false)
   const [clearing, setClearing] = useState(false)

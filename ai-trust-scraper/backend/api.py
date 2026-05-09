@@ -90,7 +90,7 @@ _scrape_status: dict = {"running": False, "last_run": None, "error": None}
 # ── Pydantic models ───────────────────────────────────────────────────────────
 class ScrapeRequest(BaseModel):
     sources:     list[Literal["blog", "youtube", "pubmed"]] = ["blog", "pubmed", "youtube"]
-    pubmed_max:  int = 10
+    pubmed_max:  int = 1
     blog_urls:   list[str] = []   # override blog URLs  (empty = use defaults)
     youtube_ids: list[str] = []   # override video IDs  (empty = use defaults)
     query:       Optional[str] = None

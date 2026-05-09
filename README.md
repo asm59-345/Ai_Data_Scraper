@@ -1,5 +1,7 @@
 # AI Trust Scraper Ecosystem
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7761d559-cae6-4c99-99a9-9ed4b8c73791" />
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-00a393.svg)
 ![React](https://img.shields.io/badge/React-18+-61dafb.svg)
@@ -122,3 +124,5 @@ The pipeline generates the final output at `output/scraped_data.json` matching t
 
 ---
 *Developed for the AI Data Scraper Assignment by Ashmit Gautam .*
+
+
